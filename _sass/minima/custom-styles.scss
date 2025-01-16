@@ -2,9 +2,12 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 .site-title::before {
-content: url("/assets/images/Aisleron-192x192.png");
-display: inline-block;
-position: relative;
-width: 35px;
-top: 5px;
+  background: url("/assets/images/Aisleron-192x192.png") no-repeat center center;
+  display: inline-block;
+  position: relative;
+  width: 35px;
+  height:35px;
+  top: 10px;
+  content: "";
+  margin-inline-end: 10px;
 }
