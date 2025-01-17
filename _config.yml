@@ -2,6 +2,9 @@ title: Aisleron
 remote_theme: just-the-docs/just-the-docs
 
 url: https://aisleron.com
+repository: thebatdan/Aisleron # for github-metadata
+
+permalink:
 
 aux_links:
   GitHub: https://github.com/thebatdan/Aisleron
