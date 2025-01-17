@@ -7,9 +7,9 @@ url: https://aisleron.com
 aux_links:
   Template Repository: https://github.com/thebatdan/Aisleron
 
-favicon_ico: "favicon.ico"
+favicon_ico: "/assets/images/favicon.ico"
 
-logo: "/assets/images/Aisleron-192x192.png"
+# logo: "/assets/images/Aisleron-192x192.png"
 
 
 
