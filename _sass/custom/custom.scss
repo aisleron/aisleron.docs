@@ -1,0 +1,13 @@
+// custom SCSS (or CSS) goes here
+
+.site-title::before {
+  background: url("/assets/images/aisleron-32x32.png") no-repeat center center;
+  display: inline-block;
+  position: relative;
+  width: 35px;
+  height:35px;
+  top: 10px;
+  content: "";
+  margin-inline-end: 10px;
+  background-size: contain;
+}
