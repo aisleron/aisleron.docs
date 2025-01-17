@@ -1,5 +1,4 @@
 title: Aisleron
-description: Streamline your shopping with this intuitive, easy-to-use shopping list app.
 remote_theme: just-the-docs/just-the-docs
 
 url: https://aisleron.com
@@ -9,7 +8,6 @@ aux_links:
 
 favicon_ico: "/assets/images/favicon.ico"
 
-logo: "/assets/images/aisleron-32x32.png"
+# logo: "/assets/images/aisleron-32x32.png"
 
-
-
+color_scheme: dark
