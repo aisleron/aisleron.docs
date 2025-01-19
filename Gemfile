@@ -1,12 +1,6 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.4"
 
-gem "jekyll-seo-tag", ">= 2.0"
-
-gem "jekyll-remote-theme", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-
-# gem "rails"
+# gem "just-the-docs", "0.10.1" # pinned to the current release
+ gem "just-the-docs"        # always download the latest release
