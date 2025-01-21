@@ -12,5 +12,8 @@ See [Just the Docs Template](https://github.com/just-the-docs/just-the-docs-temp
 ### Run the site locally
 `bundle exec jekyll serve`
 
+With live update:  
+` bundle exec jekyll serve --livereload`
+
 The site will run on http://localhost:4000
 

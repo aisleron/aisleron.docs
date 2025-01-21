@@ -20,6 +20,13 @@ favicon_ico: "/assets/images/favicon.ico"
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 # External navigation links
 nav_external_links:
   - title: Aisleron on GitHub
@@ -33,3 +40,20 @@ nav_external_links:
 
 exclude:
   - README.md
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
