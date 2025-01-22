@@ -26,4 +26,4 @@ Start building a personalized shopping list from scratch by adding [Shops]({{sit
 Try out a pre-filled list to get a feel for how the app works.
 
 ## Import an Existing Database
-Bring in a shopping list from an earlier backup by importing it from the [Settings]({{site.baseurl}}/docs/documentation/settings#restore-database) page.
+Bring in a shopping list from an earlier backup by importing it from the [Settings]({{site.baseurl}}/docs/documentation/settings#backuprestore) page.

@@ -9,7 +9,7 @@ nav_order: 60
 
 In Aisleron, a Shop represents a physical location where you can buy products. A Shop is laid out by Aisle, with products sorted into the Shop Aisles. You can set up multiple shops with different layouts; needed products will be displayed in all shops.
 
-Frequently used Shops can be pinned to the navigation drawer for easy access. Pinned and unpinned shops can be accessed from the *All Shops* page. To access *All Shops*, tap the hamburger menu to open the navigation drawer. Next, tap the *All Shops* menu item under the *Shops* category to open the *All Shops* page.
+Frequently used Shops can be pinned to the navigation drawer for easy access. Pinned and unpinned shops can be accessed from the *All Shops* page. To access *All Shops*, tap the hamburger menu to open the navigation drawer. Next, tap the *All Shops* menu item under the *Shops* category.
 
 To add, edit, or delete a shop, see the instructions below.
 
