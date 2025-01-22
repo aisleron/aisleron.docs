@@ -22,15 +22,17 @@ To add, edit, or delete a shop, see the instructions below.
 
 You can add a shop from either the *All Shops* page, or from any list by using the Floating Action Button (fab).
 
-To add a shop from the *All Shops* page, click the *Add Shop* fab in the bottom right corner to open the *Add Shop* page.
+To add a shop from the *All Shops* page, tap the *Add Shop* fab in the bottom right corner to open the *Add Shop* page.
 
-To add a shop from a list, tap the fab in the bottom right corner, then click the *Add Shop* sub-fab to open the *Add Shop* page.
+To add a shop from a list, tap the fab in the bottom right corner, then tap the *Add Shop* sub-fab to open the *Add Shop* page.
 
 On the *Add Shop* page, enter a the following details:
 * **Shop Name**: Enter a unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
 
-Click *Save* in the top right corner to save the shop. Once saved, the shop will be available in *All Shops*, and, if pinned, under the *Shops* section in the navigation drawer
+Tap *Save* in the top right corner to save the shop. Once saved, the shop will be available in *All Shops*, and, if pinned, under the *Shops* section in the navigation drawer.
+
+To cancel the Add action, tap the *Back* button.
 
 ## Edit a Shop
 
@@ -40,7 +42,9 @@ On the *Edit Shop* page, you can edit the following details:
 * **Shop Name**: Enter a new unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop. You can still save the shop if you haven't changed the name.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
 
-Click *Save* in the top right corner to save the shop
+Tap *Save* in the top right corner to save the shop.
+
+To cancel the Edit action, tap the *Back* button.
 
 ## Delete a Shop
 

@@ -12,7 +12,7 @@ When starting Aisleron for the first time, the *Welcome* page is displayed. The 
 * TOC
 {:toc}
 
-Click on the desired option to start using Aisleron.
+Tap the desired option to start using Aisleron.
 
 {: .note }  
 Once an initialization option has been selected, the *Welcome* page will not be displayed again.
