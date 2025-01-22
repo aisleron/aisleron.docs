@@ -11,7 +11,7 @@ The *Settings* page is used to configure application behavior and perform databa
 
 Settings are automatically saved when leaving the *Settings* page.
 
-The following settings are availabe
+The following settings are available:
 
 {:toc}
 * TOC
