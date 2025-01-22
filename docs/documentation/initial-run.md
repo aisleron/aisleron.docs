@@ -7,7 +7,7 @@ nav_order: 10
 # Initial Run
 {: .no_toc }
 
-When starting Aisleron for the first time, the Welcome screen is displayed. The Welcome screen provides three options for initializing application data:
+When starting Aisleron for the first time, the *Welcome* page is displayed. The *Welcome* page provides three options for initializing application data:
 
 * TOC
 {:toc}
@@ -15,7 +15,7 @@ When starting Aisleron for the first time, the Welcome screen is displayed. The 
 Click on the desired option to start using Aisleron.
 
 {: .note }  
-Once an initialization option has been selected, the welcome screen will not be displayed again.
+Once an initialization option has been selected, the *Welcome* page will not be displayed again.
 
 ---
 
