@@ -1,6 +1,6 @@
 ---
 title: Reporting Issues
-nav_order: 6
+nav_order: 30
 ---
 
 # Reporting Bugs and Feature Requests

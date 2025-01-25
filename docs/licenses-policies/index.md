@@ -1,6 +1,6 @@
 ---
 title: Licenses & Policies
-nav_order: 3
+nav_order: 20
 ---
 
 # Licenses & Policies
