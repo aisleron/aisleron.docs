@@ -5,7 +5,7 @@ nav_order: 40
 
 # Aisleron Version History
 
-## 0.1.0 - TBC 2025
+## 0.2.0 - TBC 2025
 * Display a Welcome page on initial run.
 * Show a snack bar message on product status change. 
 * Add option to load sample items into the database on initial run.

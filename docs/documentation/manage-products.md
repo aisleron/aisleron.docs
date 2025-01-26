@@ -7,9 +7,7 @@ nav_order: 40
 # Manage Products
 {: .no_toc }
 
-Products in Aisleron represent the items that are tracked on your shopping lists, e.g. Apples, Milk, or Pet Food. A Product can have one of two statuses:  
-* **In Stock**: You have the product available at home or do not need to buy it 
-* **Needed**: You need to buy the product from a shop
+Products in Aisleron represent the items that are tracked on your shopping lists, e.g. Apples, Milk, or Pet Food. A product can have a status of *In Stock* or *Needed*. Refer to [Product Status]({{site.baseurl}}/docs/documentation/product-status) for details on product status.
 
 To add, edit, or delete a product, see the instructions below.
 
