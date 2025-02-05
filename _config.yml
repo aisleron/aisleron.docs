@@ -2,12 +2,12 @@ title: Aisleron
 theme: just-the-docs
 
 url: https://aisleron.com
-repository: thebatdan/Aisleron # for github-metadata
+repository: aisleron/aisleron # for github-metadata
 
 permalink:
 
 aux_links:
-  GitHub: https://github.com/thebatdan/Aisleron
+  GitHub: https://github.com/aisleron/aisleron
 
 
 favicon_ico: "/assets/images/favicon.ico"
@@ -30,7 +30,7 @@ defaults:
 # External navigation links
 nav_external_links:
   - title: Aisleron on GitHub
-    url: https://github.com/thebatdan/Aisleron
+    url: https://github.com/aisleron/aisleron
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
   - title: Aisleron Docs on GitHub

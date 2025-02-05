@@ -12,7 +12,7 @@ Before logging an issue, please search the issue tracker to make sure your issue
 
 ## Aisleron Shopping List 
 
-[Issue Tracker](https://github.com/thebatdan/Aisleron/issues) / [Bug Report](https://github.com/thebatdan/Aisleron/issues/new?template=bug_report.md) / [Feature Request](https://github.com/thebatdan/Aisleron/issues/new?template=feature_request.md)
+[Issue Tracker](https://github.com/aisleron/aisleron/issues) / [Bug Report](https://github.com/aisleron/aisleron/issues/new?template=bug_report.md) / [Feature Request](https://github.com/aisleron/aisleron/issues/new?template=feature_request.md)
 
 
 
