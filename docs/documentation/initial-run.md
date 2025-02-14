@@ -19,6 +19,9 @@ Once an initialization option has been selected, the *Welcome* page will not be 
 
 ---
 
+![Welcome Page](/assets/images/screenshots/alr-010-welcome-page.png)
+{: .mx-auto .float-md-right .ml-md-5 }
+
 ## Add Your Own Products
 Start building a personalized shopping list from scratch by adding [Shops]({{site.baseurl}}/docs/documentation/manage-shops#add-a-shop), [Aisles]({{site.baseurl}}/docs/documentation/manage-aisles#add-an-aisle),and [Products]({{site.baseurl}}/docs/documentation/manage-products#add-a-product).
 

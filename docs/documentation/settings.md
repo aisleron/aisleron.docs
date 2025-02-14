@@ -18,6 +18,9 @@ The following settings are available:
 
 ---
 
+![Settings Page](/assets/images/screenshots/alr-050-settings.png)
+{: .mx-auto .float-md-right .ml-md-5 }
+
 ## Display Options
 
 **Show on lock screen**: By default, your phone needs to be unlocked to use Aisleron. With this setting toggled to *On*, the Aisleron shopping list will be displayed over the lock screen for convenience. Any action outside Aisleron will still require the screen to be unlocked.
