@@ -23,7 +23,7 @@ A product can be added from the [*Product List*](/docs/documentation/product-lis
 To add a product, tap the Floating Action Button (fab) ![Fab](/assets/images/screenshots/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Product* sub-fab ![Add Product Fab](/assets/images//screenshots/alr-940-fab-add-product.png) to open the *Add Product* page.
 {: .v-align-middle }
 
-![Add Product](/assets/images/screenshots/alr-060-add-product.png)
+![Add Product](/assets/images/screenshots/alr-060-add-product-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Add Product* page, enter a the following details:
@@ -41,7 +41,7 @@ To cancel the Add action, tap the *Back* button.
 To edit a product, long-press the product, then tap the *Edit* pencil icon ![Edit Product Icon](/assets/images/screenshots/alr-970-edit-icon.png) in the header bar to open the *Edit Product* page.
 {: .v-align-middle }
 
-![Edit Product](/assets/images/screenshots/alr-080-edit-product.png)
+![Edit Product](/assets/images/screenshots/alr-080-edit-product-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Edit Product* page, you can edit the following details:
