@@ -1,7 +1,7 @@
 ---
 title: Manage Products
 parent: Documentation
-nav_order: 40
+nav_order: 70
 ---
 
 # Manage Products
@@ -18,9 +18,16 @@ To add, edit, or delete a product, see the instructions below.
 
 ## Add a Product  
 
-To add a product, tap the Floating Action Button (fab) in the bottom right corner, then tap the *Add Product* sub-fab to open the *Add Product* page.
+A product can be added from the [*Product List*](/docs/documentation/product-list) page. 
+
+To add a product, tap the Floating Action Button (fab) ![Fab](/assets/images/screenshots/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Product* sub-fab ![Add Product Fab](/assets/images//screenshots/alr-940-fab-add-product.png) to open the *Add Product* page.
+{: .v-align-middle }
+
+![Add Product](/assets/images/screenshots/alr-060-add-product.png)
+{: .mx-auto .float-md-right }
 
 On the *Add Product* page, enter a the following details:
+
 * **Product Name**: Enter a unique name for the new product. If the product name already exists, you will not be allowed to save the product.
 * **In Stock**: Check the box to add the product as *In Stock*, or uncheck to add it as *Needed*. This value will be pre-set based on the filter of the list the *Add* action was initiated from.
 
@@ -29,10 +36,12 @@ Tap *Save* in the top right corner to save the product. Once saved, the product 
 To cancel the Add action, tap the *Back* button.
 
 ## Edit a Product
+{: .clear-float }
 
 To edit a product, long-press the product, then tap the *Edit* pencil icon in the header bar to open the *Edit Product* page.
 
 On the *Edit Product* page, you can edit the following details:
+
 * **Product Name**: Enter a new unique name for the new product. If the product name already exists, you will not be allowed to save the product. You can still save the product if you haven't changed the name.
 * **In Stock**: Check the box to set the product as *In Stock*, or uncheck to set it as *Needed*. 
 
@@ -42,7 +51,6 @@ To cancel the Edit action, tap the *Back* button.
 
 ## Delete a Product
 
-To delete a product, long-press the product, tap the header bar three-dot menu, then tap the *Delete* option. 
+To delete a product, long-press the product, tap the header bar three-dot menu, then tap the *Delete* option.
 
-On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action.
-
+On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action.  

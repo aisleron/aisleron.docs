@@ -1,7 +1,7 @@
 ---
 title: Manage Shops
 parent: Documentation
-nav_order: 60
+nav_order: 90
 ---
 
 # Manage Shops

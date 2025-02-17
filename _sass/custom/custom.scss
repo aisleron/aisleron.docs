@@ -17,10 +17,22 @@
 
 .app-icon {
   width: 40px;
+  clear: both;
   margin-top: 8px;
   margin-bottom: 0px;
   float: left;
 }
+
+.mx-auto img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.v-align-middle img {
+  vertical-align: middle;
+}
+
 
 /*
 (none)	  All screens until the next modifier
@@ -31,15 +43,19 @@ lg	1120px  (70rem) and up
 xl	1400px  (87.5rem) and up
 */
 
-.mx-auto img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.clear-float {
+  clear: both;
 }
 
-/* Float to the right on screens that are equal to or greater than 769px wide */
-@media (min-width: 740px) {
+/* Float to the right on screens that are equal to or greater than 740px wide */
+@media screen and (min-width: 740px) {
   .float-md-right {
     float: right;
+    margin-left: 1rem !important;
+  }
+
+  .float-md-left {
+    float: left;
+    margin-left: 1rem !important;
   }
 } 

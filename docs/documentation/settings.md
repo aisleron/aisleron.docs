@@ -19,7 +19,7 @@ The following settings are available:
 ---
 
 ![Settings Page](/assets/images/screenshots/alr-050-settings.png)
-{: .mx-auto .float-md-right .ml-md-5 }
+{: .mx-auto .float-md-right }
 
 ## Display Options
 

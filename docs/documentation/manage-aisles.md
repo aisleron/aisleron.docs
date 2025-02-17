@@ -1,7 +1,7 @@
 ---
 title: Manage Aisles
 parent: Documentation
-nav_order: 50
+nav_order: 80
 ---
 
 # Manage Aisles

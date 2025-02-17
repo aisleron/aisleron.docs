@@ -1,7 +1,7 @@
 ---
 title: Product Status
 parent: Documentation
-nav_order: 70
+nav_order: 50
 ---
 
 # Product Status

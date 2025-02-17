@@ -1,7 +1,7 @@
 ---
 title: Organizing Lists
 parent: Documentation
-nav_order: 80
+nav_order: 60
 ---
 
 # Organizing Lists

@@ -15,9 +15,9 @@ Aisleron uses a navigation drawer to navigate around the app. Open the navigatio
 ---
 
 ![Navigation Drawer](/assets/images/screenshots/alr-040-navigation-drawer.png)
-{: .mx-auto .float-md-right .ml-md-5 }
+{: .mx-auto .float-md-right }
 
-# Home Section
+## Home Section
 The *Home* Drawer Section is the first section in the navigation drawer. This is where you manage which products are needed or in stock at home. The section has three lists, based on product status. All three lists share the same aisle configuration for your home.
 
 ***In Stock***: Displays products that are expected to be in stock or available at home. Use this list as a guide when preparing your shopping list; review each aisle's *In Stock* products, and [move the product to the *Needed* list]({{site.baseurl}}/docs/documentation/product-status) if required. Changing a product to *Needed* will remove it from the *In Stock* list.
@@ -26,9 +26,9 @@ The *Home* Drawer Section is the first section in the navigation drawer. This is
 
 ***All Items***: Displays both *In Stock* and *Needed* products in a single list. Products will remain on this list even when [changing between *Needed* and *In Stock*]({{site.baseurl}}/docs/documentation/product-status).  
 
-# Shops Section
+## Shops Section
 The *Shops* drawer section lists all pinned shops, and the *All Shops* menu item. Tap a pinned shop to see that shop's shopping list. Tap the [*All Shops*]({{site.baseurl}}/docs/documentation/manage-shops) to manage shops.
 
 
-# Other Options
+## Other Options
 From this section, you can access the [*Settings*]({{site.baseurl}}/docs/documentation/settings) Aisleron *About* pages.
