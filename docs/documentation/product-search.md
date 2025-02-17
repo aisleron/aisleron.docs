@@ -18,4 +18,4 @@ Some notes on the *Search* feature:
 * Search does not filter aisles.
 * Search is case-insensitive; 'apples', 'Apples', and 'apPLes' will return the same result.
 * Search ignores the product status filter of the current list. A search in a shop list will return products that are in stock, even though shops usually only shows needed items. 
-* All list features still work on search results. You can [change product status]({{site.baseurl}}/docs/documentation/product-status) or [organize your list]({{site.baseurl}}/docs/documentation/organize-lists.html#organizing-a-list) straight from the search results.
+* All list features still work on search results. You can [change product status](/docs/documentation/product-status) or [organize your list](/docs/documentation/organize-lists.html#organizing-a-list) straight from the search results.

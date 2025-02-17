@@ -7,7 +7,7 @@ nav_order: 70
 # Manage Products
 {: .no_toc }
 
-Products in Aisleron represent the items that are tracked on your shopping lists, e.g. Apples, Milk, or Pet Food. A product can have a status of *In Stock* or *Needed*. Refer to [Product Status]({{site.baseurl}}/docs/documentation/product-status) for details on product status.
+Products in Aisleron represent the items that are tracked on your shopping lists, e.g. Apples, Milk, or Pet Food. A product can have a status of *In Stock* or *Needed*. Refer to [Product Status](/docs/documentation/product-status) for details on product status.
 
 To add, edit, or delete a product, see the instructions below.
 
@@ -38,7 +38,11 @@ To cancel the Add action, tap the *Back* button.
 ## Edit a Product
 {: .clear-float }
 
-To edit a product, long-press the product, then tap the *Edit* pencil icon in the header bar to open the *Edit Product* page.
+To edit a product, long-press the product, then tap the *Edit* pencil icon ![Edit Product Icon](/assets/images/screenshots/alr-970-edit-icon.png) in the header bar to open the *Edit Product* page.
+{: .v-align-middle }
+
+![Edit Product](/assets/images/screenshots/alr-080-edit-product.png)
+{: .mx-auto .float-md-right }
 
 On the *Edit Product* page, you can edit the following details:
 
@@ -50,7 +54,14 @@ Tap *Save* in the top right corner to save the product. Once saved, the product 
 To cancel the Edit action, tap the *Back* button.
 
 ## Delete a Product
+{: .clear-float }
 
 To delete a product, long-press the product, tap the header bar three-dot menu, then tap the *Delete* option.
 
+![Delete Product Menu](/assets/images/screenshots/alr-090-select-product-delete-partial.png)
+{: .mx-auto }
+
 On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action.  
+
+![Delete Product Confirmation](/assets/images/screenshots/alr-100-delete-product-partial.png)
+{: .mx-auto }

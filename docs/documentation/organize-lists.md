@@ -16,7 +16,7 @@ By arranging your aisles and products based on the shop's physical layout, you c
 
 ## Organizing a List
 
-By default, each list starts off with products listed under *No Aisle*.  To get started with organizing a list, [add some aisles]({{site.baseurl}}/docs/documentation/manage-aisles#add-an-aisle). Refer to [Manage Aisles]({{site.baseurl}}/docs/documentation/manage-aisles) for some example layouts.
+By default, each list starts off with products listed under *No Aisle*.  To get started with organizing a list, [add some aisles](/docs/documentation/manage-aisles#add-an-aisle). Refer to [Manage Aisles](/docs/documentation/manage-aisles) for some example layouts.
 
 Once the list contains a few aisles, you can start rearranging aisles and products in the list. To move an item in the list
 1. Tap and hold the aisle or product you want to move.

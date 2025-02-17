@@ -23,10 +23,12 @@ Once an initialization option has been selected, the *Welcome* page will not be 
 {: .mx-auto .float-md-right }
 
 ## Add Your Own Products
-Start building a personalized shopping list from scratch by adding [Shops]({{site.baseurl}}/docs/documentation/manage-shops#add-a-shop), [Aisles]({{site.baseurl}}/docs/documentation/manage-aisles#add-an-aisle),and [Products]({{site.baseurl}}/docs/documentation/manage-products#add-a-product).
+Start building a personalized shopping list from scratch by adding [Shops](/docs/documentation/manage-shops#add-a-shop), 
+[Aisles](/docs/documentation/manage-aisles#add-an-aisle), and 
+[Products](/docs/documentation/manage-products#add-a-product).
 
 ## Load Sample Items
 Try out a pre-filled list to get a feel for how the app works.
 
 ## Import an Existing Database
-Bring in a shopping list from an earlier backup by importing it from the [Settings]({{site.baseurl}}/docs/documentation/settings#backuprestore) page.
+Bring in a shopping list from an earlier backup by importing it from the [Settings](/docs/documentation/settings#backuprestore) page.
