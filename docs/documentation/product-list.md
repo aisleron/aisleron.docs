@@ -7,6 +7,9 @@ nav_order: 40
 # The Product List
 {: .no_toc }
 
+![Product List](/assets/images/screenshots/alr-030-sample-items-list.png)
+{: .mx-auto .float-md-right }
+
 The Product List is the main page of Aisleron, and displays products based on the currently selected list's filter. This page is used to keep track of *In Stock* and *Needed* products, and can be [organized](/docs/documentation/organize-lists) based on the unique layout of your home and shops.
 
 [Products](/docs/documentation/manage-products) and [Aisles](/docs/documentation/manage-aisles) can also be managed from this page.
@@ -15,9 +18,6 @@ The Product List is the main page of Aisleron, and displays products based on th
 * TOC
 
 ---
-
-![Product List](/assets/images/screenshots/alr-030-sample-items-list.png)
-{: .mx-auto .float-md-right }
 
 ## List Types
 

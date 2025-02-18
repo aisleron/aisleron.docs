@@ -7,6 +7,9 @@ nav_order: 20
 # Aisleron Navigation Drawer
 {: .no_toc }
 
+![Navigation Drawer](/assets/images/screenshots/alr-040-navigation-drawer.png)
+{: .mx-auto .float-md-right .ml-md-5 }
+
 Aisleron uses a navigation drawer to navigate around the app. Open the navigation drawer by tapping the hamburger menu in the top left corner. The drawer contains three sections:
 
 {:toc}
@@ -14,10 +17,7 @@ Aisleron uses a navigation drawer to navigate around the app. Open the navigatio
 
 ---
 
-![Navigation Drawer](/assets/images/screenshots/alr-040-navigation-drawer.png)
-{: .mx-auto .float-md-right .ml-md-5 }
-
-# Home Section
+# Home Section 
 The *Home* Drawer Section is the first section in the navigation drawer. This is where you manage which products are needed or in stock at home. The section has three lists, based on product status. All three lists share the same aisle configuration for your home.
 
 ***In Stock***: Display products that are expected to be [*In Stock*](/docs/documentation/product-list#in-stock-list) at home. Use this list as a guide when preparing your shopping list.

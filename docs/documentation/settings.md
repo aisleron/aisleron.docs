@@ -7,6 +7,9 @@ nav_order: 30
 # Aisleron Settings
 {: .no_toc }
 
+![Settings Page](/assets/images/screenshots/alr-050-settings.png)
+{: .mx-auto .float-md-right }
+
 The *Settings* page is used to configure application behavior and perform database backup and restore activities. To access *Settings*, tap the hamburger menu to open the navigation drawer, then tap the *Settings* menu item.
 
 Settings are automatically saved when leaving the *Settings* page.
@@ -17,9 +20,6 @@ The following settings are available:
 * TOC
 
 ---
-
-![Settings Page](/assets/images/screenshots/alr-050-settings.png)
-{: .mx-auto .float-md-right }
 
 ## Display Options
 
