@@ -20,10 +20,10 @@ To add, edit, or delete a product, see the instructions below.
 
 A product can be added from the [*Product List*](/docs/documentation/product-list) page. 
 
-To add a product, tap the Floating Action Button (fab) ![Fab](/assets/images/screenshots/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Product* sub-fab ![Add Product Fab](/assets/images//screenshots/alr-940-fab-add-product.png) to open the *Add Product* page.
+To add a product, tap the Floating Action Button (fab) ![Fab](/assets/images/screenshots/light-mode/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Product* sub-fab ![Add Product Fab](/assets/images/screenshots/light-mode/alr-940-fab-add-product.png) to open the *Add Product* page.
 {: .v-align-middle }
 
-![Add Product](/assets/images/screenshots/alr-060-add-product-partial.png)
+![Add Product](/assets/images/screenshots/light-mode/alr-060-add-product-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Add Product* page, enter a the following details:
@@ -38,10 +38,10 @@ To cancel the Add action, tap the *Back* button.
 ## Edit a Product
 {: .clear-float }
 
-To edit a product, long-press the product, then tap the *Edit* pencil icon ![Edit Product Icon](/assets/images/screenshots/alr-970-edit-icon.png) in the header bar to open the *Edit Product* page.
+To edit a product, long-press the product, then tap the *Edit* pencil icon ![Edit Product Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Product* page.
 {: .v-align-middle }
 
-![Edit Product](/assets/images/screenshots/alr-080-edit-product-partial.png)
+![Edit Product](/assets/images/screenshots/light-mode/alr-080-edit-product-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Edit Product* page, you can edit the following details:
@@ -58,10 +58,10 @@ To cancel the Edit action, tap the *Back* button.
 
 To delete a product, long-press the product, tap the header bar three-dot menu, then tap the *Delete* option.
 
-![Delete Product Menu](/assets/images/screenshots/alr-090-select-product-delete-partial.png)
+![Delete Product Menu](/assets/images/screenshots/light-mode/alr-090-select-product-delete-partial.png)
 {: .mx-auto }
 
 On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action.  
 
-![Delete Product Confirmation](/assets/images/screenshots/alr-100-delete-product-partial.png)
+![Delete Product Confirmation](/assets/images/screenshots/light-mode/alr-100-delete-product-partial.png)
 {: .mx-auto }

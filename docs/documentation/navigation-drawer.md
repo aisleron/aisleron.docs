@@ -7,7 +7,7 @@ nav_order: 20
 # Aisleron Navigation Drawer
 {: .no_toc }
 
-![Navigation Drawer](/assets/images/screenshots/alr-040-navigation-drawer.png)
+![Navigation Drawer](/assets/images/screenshots/light-mode/alr-040-navigation-drawer.png)
 {: .mx-auto .float-md-right }
 
 Aisleron uses a navigation drawer to navigate around the app. Open the navigation drawer by tapping the hamburger menu in the top left corner. The drawer contains three sections:

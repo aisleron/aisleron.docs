@@ -7,7 +7,7 @@ nav_order: 40
 # The Product List
 {: .no_toc }
 
-![Product List](/assets/images/screenshots/alr-030-sample-items-list.png)
+![Product List](/assets/images/screenshots/light-mode/alr-030-sample-items-list.png)
 {: .mx-auto .float-md-right }
 
 The Product List is the main page of Aisleron, and displays products based on the currently selected list's filter. This page is used to keep track of *In Stock* and *Needed* products, and can be [organized](/docs/documentation/organize-lists) based on the unique layout of your home and shops.

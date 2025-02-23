@@ -7,7 +7,7 @@ permalink: /
 
 # Aisleron Shopping List
 
-![Aisleron Shopping List](/assets/images/screenshots/alr-270-shop-list-full.png)
+![Aisleron Shopping List](/assets/images/screenshots/light-mode/alr-270-shop-list-full.png)
 {: .mx-auto .float-md-right }
 
 Aisleron: Fly Through the Shops!

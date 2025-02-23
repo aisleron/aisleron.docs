@@ -7,7 +7,7 @@ nav_order: 90
 # Manage Shops
 {: .no_toc }
 
-![All Shops Page](/assets/images/screenshots/alr-280-all-shops.png)
+![All Shops Page](/assets/images/screenshots/light-mode/alr-280-all-shops.png)
 {: .mx-auto .float-md-right }
 
 In Aisleron, a Shop represents a physical location where you can buy products. A Shop is laid out by Aisle, with products sorted into the Shop Aisles. You can set up multiple shops with different layouts; needed products will be displayed in all shops.
@@ -33,13 +33,13 @@ To view a shop list, tap the shop icon on the *All Shops* list.
 
 You can add a shop from either the *All Shops* page, or from any list by using the Floating Action Button (fab).
 
-To add a shop from the *All Shops* page, tap the *Add Shop* fab ![Add Shop Fab](/assets/images/screenshots/alr-915-fab-add-shop.png) in the bottom right corner to open the *Add Shop* page.
+To add a shop from the *All Shops* page, tap the *Add Shop* fab ![Add Shop Fab](/assets/images/screenshots/light-mode/alr-915-fab-add-shop.png) in the bottom right corner to open the *Add Shop* page.
 {: .v-align-middle }
 
-To add a shop from a list, tap the fab ![Fab](/assets/images/screenshots/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Shop* sub-fab ![Add Shop Fab](/assets/images/screenshots/alr-920-fab-add-shop.png) to open the *Add Shop* page.
+To add a shop from a list, tap the fab ![Fab](/assets/images/screenshots/light-mode/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Shop* sub-fab ![Add Shop Fab](/assets/images/screenshots/light-mode/alr-920-fab-add-shop.png) to open the *Add Shop* page.
 {: .v-align-middle }
 
-![Add Shop](/assets/images/screenshots/alr-160-add-shop-partial.png)
+![Add Shop](/assets/images/screenshots/light-mode/alr-160-add-shop-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Add Shop* page, enter a the following details:
@@ -53,10 +53,10 @@ To cancel the Add action, tap the *Back* button.
 ## Edit a Shop
 {: .clear-float }
 
-Shops can be edited from the *All Shops* page. To edit a shop, long-press the shop, then tap the *Edit* pencil icon ![Edit Shop Icon](/assets/images/screenshots/alr-970-edit-icon.png) in the header bar to open the *Edit Shop* page.
+Shops can be edited from the *All Shops* page. To edit a shop, long-press the shop, then tap the *Edit* pencil icon ![Edit Shop Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Shop* page.
 {: .v-align-middle }
 
-![Edit Shop](/assets/images/screenshots/alr-180-edit-shop-partial.png)
+![Edit Shop](/assets/images/screenshots/light-mode/alr-180-edit-shop-partial.png)
 {: .mx-auto .float-md-right }
 
 On the *Edit Shop* page, you can edit the following details:
@@ -74,10 +74,10 @@ Shops can be deleted from the *All Shops* page
 
 To delete a shop, long-press the shop, tap the header bar three-dot menu, then tap the *Delete* option. 
 
-![Delete Shop Menu](/assets/images/screenshots/alr-190-select-shop-delete-partial.png)
+![Delete Shop Menu](/assets/images/screenshots/light-mode/alr-190-select-shop-delete-partial.png)
 {: .mx-auto }
 
 On the *Delete* confirmation page, tap *OK* to delete the shop, or tap *Cancel* to cancel the delete action.
 
-![Delete Shop Confirmation](/assets/images/screenshots/alr-200-delete-shop-partial.png)
+![Delete Shop Confirmation](/assets/images/screenshots/light-mode/alr-200-delete-shop-partial.png)
 {: .mx-auto }

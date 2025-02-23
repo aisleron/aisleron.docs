@@ -7,7 +7,7 @@ nav_order: 100
 # Product Search
 {: .no_toc }
 
-![Product Search](/assets/images/screenshots/alr-220-search.png)
+![Product Search](/assets/images/screenshots/light-mode/alr-220-search.png)
 {: .mx-auto .float-md-right }
 
 As your list of products grows, it can become harder to find the exact item you want to add to your shopping list. To streamline this process, Aisleron has a built in *Search* feature to find the product you are looking for.

@@ -7,7 +7,7 @@ nav_order: 30
 # Aisleron Settings
 {: .no_toc }
 
-![Settings Page](/assets/images/screenshots/alr-050-settings.png)
+![Settings Page](/assets/images/screenshots/light-mode/alr-050-settings.png)
 {: .mx-auto .float-md-right }
 
 The *Settings* page is used to configure application behavior and perform database backup and restore activities. To access *Settings*, tap the hamburger menu to open the navigation drawer, then tap the *Settings* menu item.

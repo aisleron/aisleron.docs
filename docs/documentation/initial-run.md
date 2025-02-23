@@ -7,7 +7,7 @@ nav_order: 10
 # Initial Run
 {: .no_toc }
 
-![Welcome Page](/assets/images/screenshots/alr-010-welcome-page.png)
+![Welcome Page](/assets/images/screenshots/light-mode/alr-010-welcome-page.png)
 {: .mx-auto .float-md-right }
 
 When starting Aisleron for the first time, the *Welcome* page is displayed. The *Welcome* page provides three options for initializing application data:

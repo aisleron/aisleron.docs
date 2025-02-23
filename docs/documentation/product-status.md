@@ -9,12 +9,12 @@ nav_order: 50
 An Aisleron Product can have one of two statuses:  
 * **In Stock**: You have the product available at home or do not need to buy it. Products that are *In Stock* will be displayed on the Home [*In Stock*](/docs/documentation/product-list#in-stock-list) and [*All Items*](/docs/documentation/product-list#all-items-list) lists.
 
-![In Stock Product](/assets/images/screenshots/alr-950-in-stock-product.png)
+![In Stock Product](/assets/images/screenshots/light-mode/alr-950-in-stock-product.png)
 {: .mx-auto}
 
 * **Needed**: You need to buy the product from a shop. Products that are *Needed* will be displayed on the  Home [*Needed*](/docs/documentation/product-list#needed-list) and [*All Items*](/docs/documentation/product-list#all-items-list) lists, and in any [Shop lists](/docs/documentation/product-list#shop-list).
 
-![Needed Product](/assets/images/screenshots/alr-960-needed-product.png)
+![Needed Product](/assets/images/screenshots/light-mode/alr-960-needed-product.png)
 {: .mx-auto}
 
 ## Changing Product Status
@@ -26,5 +26,5 @@ There are two ways to toggle a product between *Needed* and *In Stock*:
 
 By default, a notification is displayed whenever a product's status is toggled between *Needed* and *In Stock*. To turn off this notification, turn on [Hide status change message](/docs/documentation/settings#shopping-list-options) in *Settings*.
 
-![Status Change Snack Bar](/assets/images/screenshots/alr-240-status-change-snackbar-partial.png)
+![Status Change Snack Bar](/assets/images/screenshots/light-mode/alr-240-status-change-snackbar-partial.png)
 {: .mx-auto}
