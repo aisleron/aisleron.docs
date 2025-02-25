@@ -32,3 +32,10 @@ Streamline your shopping with this intuitive, easy-to-use shopping list app. Whe
 * Everything is done on the local device, no sharing of location data or shopping habits.
 
 Get started today and make your shopping trips faster and more efficient!
+
+---
+
+{: .mx-auto .three-md-column }
+![In Stock](/assets/images/screenshots/light-mode/alr-300-emoji-in-stock.png)
+![Needed](/assets/images/screenshots/light-mode/alr-310-emoji-needed.png)
+![All Items](/assets/images/screenshots/light-mode/alr-320-emoji-all-items.png)
