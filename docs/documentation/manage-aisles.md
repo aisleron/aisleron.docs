@@ -36,14 +36,14 @@ Once saved, the aisle will be displayed in the current list and products can be 
 ## Add a Product to an Aisle
 {: .clear-float }
 
-In addition to [dragging products into an aisle](/docs/documentation/organize-lists#organizing-a-list), products can also be added directly to an aisle.
+In addition to [dragging products into an aisle](/docs/documentation/organize-lists#organizing-a-list), new products can also be added directly to an aisle.
 
-To add a product directly to an aisle, long-press the aisle, then tap the *Add Product* icon ![Add Product Icon](/assets/images/screenshots/light-mode/alr-980-add-product.png) in the header bar to open the *Add Product* page.
+To add a new product directly to an aisle, long-press the aisle, then tap the *Add Product* icon ![Add Product Icon](/assets/images/screenshots/light-mode/alr-980-add-product.png) in the header bar to open the *Add Product* page.
 {: .v-align-middle }
 
-Then, add a product as per the [Add Product](/docs/documentation/manage-products#add-a-product) instructions. After saving the product, it will be listed in the selected aisle.
+Then, add the product as per the [Add Product](/docs/documentation/manage-products#add-a-product) instructions. After saving the product, it will be listed in the selected aisle.
 
-The product will be added to the selected aisle in on the current list. It will be listed under *No Aisle* for all other lists.
+The product will be added to the selected aisle on the current list. It will be listed under *No Aisle* for all other lists.
 {: .note }
 
 
