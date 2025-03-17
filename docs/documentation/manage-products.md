@@ -29,7 +29,7 @@ To add a product, tap the Floating Action Button (fab) ![Fab](/assets/images/scr
 On the *Add Product* page, enter a the following details:
 
 * **Product Name**: Enter a unique name for the new product. If the product name already exists, you will not be allowed to save the product.
-* **In Stock**: Check the box to add the product as *In Stock*, or uncheck to add it as *Needed*. This value will be pre-set based on the filter of the list the *Add* action was initiated from.
+* **In stock at home?**: Check the box to add the product to *Home Stock*, or uncheck to add it as *Needed*. This value will be pre-set based on the filter of the list the *Add* action was initiated from.
 
 Tap *Save* in the top right corner to save the product. Once saved, the product will be available in all lists in the application.
 
@@ -47,7 +47,7 @@ To edit a product, long-press the product, then tap the *Edit* pencil icon ![Edi
 On the *Edit Product* page, you can edit the following details:
 
 * **Product Name**: Enter a new unique name for the new product. If the product name already exists, you will not be allowed to save the product. You can still save the product if you haven't changed the name.
-* **In Stock**: Check the box to set the product as *In Stock*, or uncheck to set it as *Needed*. 
+* **In stock at home?**: Check the box to add the product to *Home Stock*, or uncheck to set it as *Needed*. 
 
 Tap *Save* in the top right corner to save the product. Once saved, the product will be updated in all lists in the application.
 

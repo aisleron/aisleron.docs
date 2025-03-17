@@ -5,6 +5,17 @@ nav_order: 40
 
 # Aisleron Version History
 
+## 2025.3.0 - 17 Mar 2025
+
+### Enhancements
+
+* Change 'In Stock' Nav Bar option to 'Home Stock' for clearer terminology ([GitHub](https://github.com/aisleron/aisleron/issues/1)).
+
+### Bug Fixes
+
+* Fix "Add Product to Aisle" button shows in All Shops list ([Github](https://github.com/aisleron/aisleron/issues/2)).
+
+
 ## 2025.2.0 - 11 Mar 2025
 * Include an option to add a new product [directly to an aisle](/docs/documentation/manage-aisles#add-a-product-to-an-aisle).
 

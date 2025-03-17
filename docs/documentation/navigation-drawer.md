@@ -20,7 +20,7 @@ Aisleron uses a navigation drawer to navigate around the app. Open the navigatio
 # Home Section 
 The *Home* Drawer Section is the first section in the navigation drawer. This is where you manage which products are needed or in stock at home. The section has three lists, based on product status. All three lists share the same aisle configuration for your home.
 
-***In Stock***: Display products that are expected to be [*In Stock*](/docs/documentation/product-list#in-stock-list) at home. Use this list as a guide when preparing your shopping list.
+***Home Stock***: Display products that are expected to be [*In Stock*](/docs/documentation/product-list#in-stock-list) at home. Use this list to review current in-home stock levels when preparing your shopping list.
 
 ***Needed***: Display products that are [*Needed*](/docs/documentation/product-list#needed-list) at home and needs to be picked up from a shop. Use this list to review your shopping list.
 

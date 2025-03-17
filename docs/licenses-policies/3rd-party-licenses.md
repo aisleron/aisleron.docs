@@ -11,6 +11,8 @@ Aisleron and Aisleron Docs make use of third-party components and tools. Licensi
 ## Aisleron Shopping List
 Icons from [Google fonts](https://fonts.google.com/icons), under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
 
+The [Dependency Analysis Gradle Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin), under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 
 ## Aisleron Docs
 [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main) Jekyll theme, under the [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt)  

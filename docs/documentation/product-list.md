@@ -23,13 +23,13 @@ The Product List is the main page of Aisleron, and displays products based on th
 
 The product list can display the following list types: 
 
-### In Stock List
+### Home Stock List
 
-Displays products that are expected to be in stock or available at home. Use this list as a guide when preparing your shopping list; review each aisle's *In Stock* products, and [move the product to the *Needed* list](/docs/documentation/product-status) if required. Changing a product to *Needed* will remove it from the *In Stock* list. This list uses the *Home* aisle layout.
+Displays products that are expected to be in stock or available at home. Use this list to review current in-home stock levels when preparing your shopping list; review each aisle's *In Stock* products, and [move the product to the *Needed* list](/docs/documentation/product-status) if required. Changing a product to *Needed* will remove it from the *Home Stock* list. This list uses the *Home* aisle layout.
 
 ### Needed List
 
-Displays products that need to be picked up from a shop. Use this list to review your shopping list. If a product is no longer needed, [move the product to the *In Stock* list](/docs/documentation/product-status). Changing a product to *In Stock* will remove it from the *Needed* list. This list uses the *Home* aisle layout.
+Displays products that need to be picked up from a shop. Use this list to review your shopping list. If a product is no longer needed, [move the product to the *Home Stock* list](/docs/documentation/product-status). Moving a product to *Home Stock* will remove it from the *Needed* list. This list uses the *Home* aisle layout.
 
 ### All Items List
 
