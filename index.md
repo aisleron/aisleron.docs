@@ -1,8 +1,10 @@
 ---
-title: Home
+title: Aisleron Home
 layout: home
 nav_order: 1
 permalink: /
+image: /assets/images/alr-feature-graphic.png
+description: "Aisleron: Fly through the shops!"
 ---
 
 # Aisleron Shopping List
