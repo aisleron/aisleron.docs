@@ -5,6 +5,14 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.4.5](https://github.com/aisleron/aisleron/releases/tag/v2025.4.5) - 18 Apr 2025
+
+* Add French and Polish translations from Hosted Weblate.
+
+## [2025.4.4](https://github.com/aisleron/aisleron/releases/tag/v2025.4.4) - 01 Apr 2025
+
+* Initial F-Droid release.
+
 ## [2025.4.0](https://github.com/aisleron/aisleron/releases/tag/v2025.4.0) - 21 Mar 2025
 
 ### Enhancements
