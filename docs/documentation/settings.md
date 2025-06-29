@@ -31,6 +31,8 @@ The following settings are available:
 
 **Hide status change message**: By default, a notification is displayed whenever a product's status is changed between *Needed* and *In Stock*. With this setting toggled to *On*, the status change notification will be hidden.
 
+**Show empty aisles**: By default, an aisle will be hidden if it currently doesn't have any visible products. Toggle this to *On* to always display all aisles.
+
 ## Backup/Restore
 
 **Backup folder**: Select the folder where database backups will be saved. This will also be auto-set after executing a backup or restore action.

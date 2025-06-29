@@ -32,3 +32,7 @@ A *Product* can be moved:
 After positioning all aisles and products your list should have:
 * *Aisles* arranged in the same order as the physical shop;
 * *Products* matching the Aisle, and location within an aisle, as in the physical shop.
+
+## Sorting a List
+
+It is also possible to sort a list by name. This option will sort the list alphabetically, first by aisle, then by product. To sort the list by name, tap the *More* menu option, then select *Sort by name*. Then, confirm the sort request to rearrange the list by name.

@@ -45,6 +45,7 @@ To add a shop from a list, tap the fab ![Fab](/assets/images/screenshots/light-m
 On the *Add Shop* page, enter a the following details:
 * **Shop Name**: Enter a unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
+* **Show Products in the 'No Aisle' section**: Toggle whether to display the default *No Aisle* section in a shop. Hiding this section will also hide any products not allocated to a specific aisle in the current shop. The default aisle and its products will still show in search results.
 
 Tap *Save* in the top right corner to save the shop. Once saved, the shop will be available in *All Shops*, and, if pinned, under the *Shops* section in the navigation drawer.
 
@@ -53,7 +54,11 @@ To cancel the Add action, tap the *Back* button.
 ## Edit a Shop
 {: .clear-float }
 
-Shops can be edited from the *All Shops* page. To edit a shop, long-press the shop, then tap the *Edit* pencil icon ![Edit Shop Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Shop* page.
+Shops can be edited from the *All Shops* page, or directly from a product list.
+
+To edit a shop from a product list, tap the *More* menu item and select *Edit shop* to open the *Edit Shop* page.
+
+To edit a shop from *All Shops* , long-press the shop, then tap the *Edit* pencil icon ![Edit Shop Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Shop* page.
 {: .v-align-middle }
 
 ![Edit Shop](/assets/images/screenshots/light-mode/alr-180-edit-shop-partial.png)
@@ -62,6 +67,7 @@ Shops can be edited from the *All Shops* page. To edit a shop, long-press the sh
 On the *Edit Shop* page, you can edit the following details:
 * **Shop Name**: Enter a new unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop. You can still save the shop if you haven't changed the name.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
+* **Show Products in the 'No Aisle' section**: Toggle whether to display the default *No Aisle* section in a shop. Hiding this section will also hide any products not allocated to a specific aisle in the current shop. The default aisle and its products will still show in search results.
 
 Tap *Save* in the top right corner to save the shop.
 

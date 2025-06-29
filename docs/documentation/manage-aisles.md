@@ -18,6 +18,9 @@ To add, edit, or delete a aisle, see the instructions below.
 
 ---
 
+## Expand and Collapse an Aisle
+An aisle can be expanded or collapsed by tapping on the aisle name. Expanding an aisle will show the products available under the aisle. Collapsing the aisle will hide all products.
+
 ## Add an Aisle  
 
 To add a aisle, tap the Floating Action Button (fab) ![Fab](/assets/images/screenshots/light-mode/alr-910-fab-main.png) in the bottom right corner, then tap the *Add Aisle* sub-fab ![Add Aisle Fab](/assets/images/screenshots/light-mode/alr-930-fab-add-aisle.png) to open the *Add Aisle* dialog.

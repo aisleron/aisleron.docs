@@ -5,6 +5,21 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.5.0](https://github.com/aisleron/aisleron/releases/tag/v2025.5.0) - 30 Jun 2025
+
+### Enhancements
+* Added an option to show or hide the default aisle in a shop.
+* Improved visibility settings: unmapped products are now hidden when the default aisle is hidden ([GitHub](https://github.com/aisleron/aisleron/issues/21), [GitHub](https://github.com/aisleron/aisleron/issues/23)).
+* Introduced expand/collapse functionality for aisles.
+* Added an option to show or hide empty aisles, with empty aisles hidden by default ([GitHub](https://github.com/aisleron/aisleron/issues/18)).
+* Enabled editing a shop directly from the shopping list.
+* Added an option to sort a list by name.
+* Added explanatory text to blank lists to clarify why no items are shown.
+
+### Bug Fixes
+* Improved the reliability of long-press actions on shopping list items ([GitHub](https://github.com/aisleron/aisleron/issues/20)).
+
+
 ## [2025.4.5](https://github.com/aisleron/aisleron/releases/tag/v2025.4.5) - 18 Apr 2025
 
 * Add French and Polish translations from Hosted Weblate.
