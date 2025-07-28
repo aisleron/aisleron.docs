@@ -46,6 +46,7 @@ On the *Add Shop* page, enter a the following details:
 * **Shop Name**: Enter a unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
 * **Show Products in the 'No Aisle' section**: Toggle whether to display the default *No Aisle* section in a shop. Hiding this section will also hide any products not allocated to a specific aisle in the current shop. The default aisle and its products will still show in search results.
+* **Loyalty Card**: Link the shop to a loyalty card defined in [Catima — Loyalty Card Wallet](https://catima.app/). Linking a loyalty card will make the loyalty card toolbar button available in the shopping list.
 
 Tap *Save* in the top right corner to save the shop. Once saved, the shop will be available in *All Shops*, and, if pinned, under the *Shops* section in the navigation drawer.
 
@@ -68,6 +69,7 @@ On the *Edit Shop* page, you can edit the following details:
 * **Shop Name**: Enter a new unique name for the new shop. If the shop name already exists, you will not be allowed to save the shop. You can still save the shop if you haven't changed the name.
 * **Pin Shop to Drawer**: Toggle whether to pin or unpin a shop on the navigation drawer.
 * **Show Products in the 'No Aisle' section**: Toggle whether to display the default *No Aisle* section in a shop. Hiding this section will also hide any products not allocated to a specific aisle in the current shop. The default aisle and its products will still show in search results.
+* **Loyalty Card**: Link the shop to a loyalty card defined in [Catima — Loyalty Card Wallet](https://catima.app/). Linking a loyalty card will make the loyalty card toolbar button available in the shopping list.
 
 Tap *Save* in the top right corner to save the shop.
 

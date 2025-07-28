@@ -5,6 +5,18 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.6.0](https://github.com/aisleron/aisleron/releases/tag/v2025.6.0) - 30 Jul 2025
+
+### Enhancements
+* Added support for loyalty card lookups via [Catima — Loyalty Card Wallet](https://catima.app/).
+* Introduced Russian language support.
+* Updated target SDK to Android 15 (API level 35) for improved compatibility.
+
+### Bug Fixes
+* Resolved an issue where the bottom list item’s checkbox was obscured by the floating action button (FAB) ([GitHub](https://github.com/aisleron/aisleron/issues/24)).
+* Fixed a problem preventing .sqlite backup files from opening on Android 15 ([GitHub](https://github.com/aisleron/aisleron/issues/22)).
+
+
 ## [2025.5.0](https://github.com/aisleron/aisleron/releases/tag/v2025.5.0) - 30 Jun 2025
 
 ### Enhancements

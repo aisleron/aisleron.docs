@@ -39,6 +39,9 @@ Displays both *In Stock* and *Needed* products in a single list. Products will r
 
 Displays products that need to be picked up from the given shop. While shopping, [tick off products](/docs/documentation/product-status) to remove it from the list. Each shop can have a unique aisle layout. 
 
+If a [loyalty card](/docs/documentation/manage-shops#manage-shops) is linked to the shop, the loyalty card button ![Loyalty Card](/assets/images/screenshots/light-mode/alr-990-show-loyalty-card.png) will be displayed in the toolbar.
+{: .v-align-middle }
+
 ## Main Functions
 
 * [Change Product Status](/docs/documentation/product-status)
