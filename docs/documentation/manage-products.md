@@ -56,12 +56,27 @@ To cancel the Edit action, tap the *Back* button.
 ## Delete a Product
 {: .clear-float }
 
+![Delete Product Menu](/assets/images/screenshots/light-mode/alr-090-select-product-delete-partial.png)
+{: .mx-auto .float-md-right }
+
 To delete a product, long-press the product, tap the header bar three-dot menu, then tap the *Delete* option.
 
-![Delete Product Menu](/assets/images/screenshots/light-mode/alr-090-select-product-delete-partial.png)
-{: .mx-auto }
-
-On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action.  
+<br>
+{: .clear-float }
 
 ![Delete Product Confirmation](/assets/images/screenshots/light-mode/alr-100-delete-product-partial.png)
-{: .mx-auto }
+{: .mx-auto .float-md-right }
+
+On the *Delete* confirmation page, tap *OK* to delete the product, or tap *Cancel* to cancel the delete action. 
+
+## Copy a Product
+{: .clear-float }
+
+![Copy Product Dialog](/assets/images/screenshots/light-mode/alr-105-copy-product-partial.png)
+{: .mx-auto .float-md-right }
+
+If a new product is going to be generally very similar to an existing product, e.g. it can be found in the same aisles in most shops, you can copy the existing product. Copying a product will create a new product with the same aisle mappings for all shops. The new product won't need to be mapped to the correct aisle for each shop. 
+
+To copy a product, long-press the product, tap the header bar three-dot menu, then tap the *Copy* option.
+
+On the *Copy Product* Dialog, enter a name for the new product and tap *OK* to save the product. Tap *Cancel* to cancel the copy action.

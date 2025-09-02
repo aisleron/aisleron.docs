@@ -67,13 +67,18 @@ On the *Edit Aisle* dialog, enter new name for the aisle. Next, tap one of the f
 ## Delete an Aisle
 {: .clear-float }
 
+![Delete Aisle Menu](/assets/images/screenshots/light-mode/alr-140-select-aisle-delete-partial.png)
+{: .mx-auto .float-md-right }
+
 To delete a aisle, long-press the aisle, tap the header bar three-dot menu, then tap the *Delete* option. 
 
-![Delete Aisle Menu](/assets/images/screenshots/light-mode/alr-140-select-aisle-delete-partial.png)
-{: .mx-auto }
+<br>
+{: .clear-float }
+
+![Delete Aisle Confirmation](/assets/images/screenshots/light-mode/alr-150-delete-aisle-partial.png)
+{: .mx-auto .float-md-right }
 
 On the *Delete* confirmation page, tap *OK* to delete the aisle, or tap *Cancel* to cancel the delete action.
 
-![Delete Aisle Confirmation](/assets/images/screenshots/light-mode/alr-150-delete-aisle-partial.png)
-{: .mx-auto }
-
+<br>
+{: .clear-float }

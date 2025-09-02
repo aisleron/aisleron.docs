@@ -5,6 +5,20 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.7.0](https://github.com/aisleron/aisleron/releases/tag/v2025.7.0) - 03 Sep 2025
+
+### Enhancements
+* New feature: Copy a shop or product to replicate its layout and mapping ([GitHub](https://github.com/aisleron/aisleron/issues/40)).
+* Added option to show or hide empty aisles in the shopping list menu ([GitHub](https://github.com/aisleron/aisleron/issues/41)).
+* You can now return to the Welcome screen during the first run ([GitHub](https://github.com/aisleron/aisleron/issues/43)).
+* Aisle names are now unique per list.
+
+### Bug Fixes
+* Fixed an issue where product/shop details cleared when switching apps ([GitHub](https://github.com/aisleron/aisleron/issues/44)).
+* Fixed missing shops in the navigation drawer after restoring the database ([GitHub](https://github.com/aisleron/aisleron/issues/42)).
+* Fixed scrolling issues when dragging a product to the top of a list ([GitHub](https://github.com/aisleron/aisleron/issues/46)).
+
+
 ## [2025.6.0](https://github.com/aisleron/aisleron/releases/tag/v2025.6.0) - 30 Jul 2025
 
 ### Enhancements

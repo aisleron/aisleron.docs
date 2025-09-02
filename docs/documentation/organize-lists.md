@@ -33,6 +33,13 @@ After positioning all aisles and products your list should have:
 * *Aisles* arranged in the same order as the physical shop;
 * *Products* matching the Aisle, and location within an aisle, as in the physical shop.
 
+![Product List Menu](/assets/images/screenshots/light-mode/alr-290-shop-list-menu-partial.png)
+{: .mx-auto .float-md-right }
+
 ## Sorting a List
 
 It is also possible to sort a list by name. This option will sort the list alphabetically, first by aisle, then by product. To sort the list by name, tap the *More* menu option, then select *Sort by name*. Then, confirm the sort request to rearrange the list by name.
+
+## Show or Hide Empty Aisles
+
+By default, an aisle will be hidden if it currently doesn't have any visible products. to toggle the visibility of empty aisles, tap the *More* menu option, then select the *Show empty aisles* checkbox. This option can also be set from the [Settings](/docs/documentation/settings.md#display-options) page.

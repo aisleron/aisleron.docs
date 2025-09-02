@@ -80,12 +80,27 @@ To cancel the Edit action, tap the *Back* button.
 
 Shops can be deleted from the *All Shops* page
 
+![Delete Shop Menu](/assets/images/screenshots/light-mode/alr-190-select-shop-delete-partial.png)
+{: .mx-auto .float-md-right }
+
 To delete a shop, long-press the shop, tap the header bar three-dot menu, then tap the *Delete* option. 
 
-![Delete Shop Menu](/assets/images/screenshots/light-mode/alr-190-select-shop-delete-partial.png)
-{: .mx-auto }
+<br>
+{: .clear-float }
+
+![Delete Shop Confirmation](/assets/images/screenshots/light-mode/alr-200-delete-shop-partial.png)
+{: .mx-auto .float-md-right }
 
 On the *Delete* confirmation page, tap *OK* to delete the shop, or tap *Cancel* to cancel the delete action.
 
-![Delete Shop Confirmation](/assets/images/screenshots/light-mode/alr-200-delete-shop-partial.png)
-{: .mx-auto }
+## Copy a Shop
+{: .clear-float }
+
+![Copy Shop Dialog](/assets/images/screenshots/light-mode/alr-185-copy-shop-partial.png)
+{: .mx-auto .float-md-right }
+
+If a new shop is going to be generally very similar to an existing shop, e.g. it has the same aisle and product mappings, you can copy the existing shop. Copying a shop will create a new shop with the same aisle and product mappings as the existing shop.
+
+To copy a shop, long-press the shop, tap the header bar three-dot menu, then tap the *Copy* option.
+
+On the *Copy Shop* Dialog, enter a name for the new shop and tap *OK* to save the shop. Tap *Cancel* to cancel the copy action.
