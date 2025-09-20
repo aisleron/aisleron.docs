@@ -28,3 +28,13 @@ By default, a notification is displayed whenever a product's status is toggled b
 
 ![Status Change Snack Bar](/assets/images/screenshots/light-mode/alr-240-status-change-snackbar-partial.png)
 {: .mx-auto}
+
+## Quantity Tracking
+
+If you want to track needed quantities on products, you can turn on the Quantity [tracking method](/docs/documentation/settings.md#shopping-list-options) in the settings. Quantity tracking can be used along with, or in place of, the status checkbox. When Quantity tracking is enabled, toggle the product status by swiping as described above.
+
+![Quantity Stepper](/assets/images/screenshots/light-mode/alr-963-qty-product.png)
+{: .mx-auto}
+
+![Checkbox with Quantity Stepper](/assets/images/screenshots/light-mode/alr-965-qty-chk-product.png)
+{: .mx-auto}

@@ -25,6 +25,8 @@ The following settings are available:
 
 **Show on lock screen**: By default, your phone needs to be unlocked to use Aisleron. With this setting toggled to *On*, the Aisleron shopping list will be displayed over the lock screen for convenience. Any action outside Aisleron will still require the screen to be unlocked.
 
+**Keep screen on**: When turned on, the phone screen will remain on while viewing a shopping list.
+
 **Theme**: The application's display theme. Available options are *System Theme*, *Light Theme*, or *Dark Theme*.
 
 ## Shopping List Options
@@ -32,6 +34,13 @@ The following settings are available:
 **Hide status change message**: By default, a notification is displayed whenever a product's status is changed between *Needed* and *In Stock*. With this setting toggled to *On*, the status change notification will be hidden.
 
 **Show empty aisles**: By default, an aisle will be hidden if it currently doesn't have any visible products. Toggle this to *On* to always display all aisles.
+
+**Tracking mode**: Determines how products will be tracked in lists. Available options are:
+
+* *Checkbox*: Show a checkbox on each product to toggle the needed state. Checkbox is the default option.
+* *Quantity*: Show a quantity stepper on each product to track the number of needed items. Swipe left or right to toggle the needed status.
+* *Checkbox and Quantity*: Display both the checkbox and the quantity stepper.
+* *None (swipe only)*: Hide both the checkbox and quantity stepper. Swipe left or right to toggle the needed status.
 
 ## Backup/Restore
 

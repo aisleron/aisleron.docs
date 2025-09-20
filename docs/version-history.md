@@ -5,6 +5,16 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.8.0](https://github.com/aisleron/aisleron/releases/tag/v2025.8.0) - 22 Sep 2025
+
+### Enhancements
+* Added Quantity tracking for Needed items ([GitHub](https://github.com/aisleron/aisleron/issues/10)).
+* New option to keep the screen on while shopping ([GitHub](https://github.com/aisleron/aisleron/issues/60)).
+* Updated French and German translations.
+
+### Bug Fixes
+* Fixed “Show on lock screen” needing an app restart to work.
+
 ## [2025.7.0](https://github.com/aisleron/aisleron/releases/tag/v2025.7.0) - 03 Sep 2025
 
 ### Enhancements
@@ -17,7 +27,6 @@ nav_order: 40
 * Fixed an issue where product/shop details cleared when switching apps ([GitHub](https://github.com/aisleron/aisleron/issues/44)).
 * Fixed missing shops in the navigation drawer after restoring the database ([GitHub](https://github.com/aisleron/aisleron/issues/42)).
 * Fixed scrolling issues when dragging a product to the top of a list ([GitHub](https://github.com/aisleron/aisleron/issues/46)).
-
 
 ## [2025.6.0](https://github.com/aisleron/aisleron/releases/tag/v2025.6.0) - 30 Jul 2025
 
