@@ -5,7 +5,7 @@ nav_order: 40
 
 # Aisleron Version History
 
-## [2025.9.0](https://github.com/aisleron/aisleron/releases/tag/v2025.9.0) - 31 Oct 2025
+## [2025.9.1](https://github.com/aisleron/aisleron/releases/tag/v2025.9.1) - 05 Nov 2025
 
 ### Enhancements
 * Added Notes to Products and Shops ([GitHub](https://github.com/aisleron/aisleron/issues/38)).
