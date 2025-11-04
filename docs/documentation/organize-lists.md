@@ -38,8 +38,12 @@ After positioning all aisles and products your list should have:
 
 ## Sorting a List
 
-It is also possible to sort a list by name. This option will sort the list alphabetically, first by aisle, then by product. To sort the list by name, tap the *More* menu option, then select *Sort by name*. Then, confirm the sort request to rearrange the list by name.
+In addition to manual sorting, a list can also be sorted by name. This option will sort the list alphabetically, first by aisle, then by product. To sort the list by name, tap the *More* menu option, then select *Sort by name*. Then, confirm the sort request to rearrange the list by name.
 
 ## Show or Hide Empty Aisles
 
-By default, an aisle will be hidden if it currently doesn't have any visible products. to toggle the visibility of empty aisles, tap the *More* menu option, then select the *Show empty aisles* checkbox. This option can also be set from the [Settings](/docs/documentation/settings.md#display-options) page.
+By default, an aisle will be hidden if it doesn't have any visible products. to toggle the visibility of empty aisles, tap the *More* menu option, then select the *Show empty aisles* checkbox. This option can also be set from the [Settings](/docs/documentation/settings.md#display-options) page.
+
+## Expand/Collapse Aisles
+
+To expand or collapse all the aisles on the current list, tap the *More* menu option, then select the *Expand/collapse aisles* toggle. If there are any expanded aisles in the list, all aisles will be collapsed. Otherwise, all aisles will be expanded. 

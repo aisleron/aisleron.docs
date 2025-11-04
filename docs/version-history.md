@@ -5,6 +5,16 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.9.0](https://github.com/aisleron/aisleron/releases/tag/v2025.9.0) - 31 Oct 2025
+
+### Enhancements
+* Added Notes to Products and Shops ([GitHub](https://github.com/aisleron/aisleron/issues/38)).
+* Added an option to choose the starting list when the app opens ([GitHub](https://github.com/aisleron/aisleron/issues/52)).
+* Added an option to expand or collapse all aisles at once ([GitHub](https://github.com/aisleron/aisleron/issues/61)).
+* Introduced an update notification banner to highlight new versions.
+* Updated French and Swedish translations.
+* Added Ukrainian translation.
+
 ## [2025.8.0](https://github.com/aisleron/aisleron/releases/tag/v2025.8.0) - 22 Sep 2025
 
 ### Enhancements

@@ -80,3 +80,22 @@ If a new product is going to be generally very similar to an existing product, e
 To copy a product, long-press the product, tap the header bar three-dot menu, then tap the *Copy* option.
 
 On the *Copy Product* Dialog, enter a name for the new product and tap *OK* to save the product. Tap *Cancel* to cancel the copy action.
+
+## Extra Options
+{: .clear-float }
+
+![Product Extra Options](/assets/images/screenshots/light-mode/alr-065-product-extra-options.png)
+{: .mx-auto .float-md-right }
+
+*Extra options* contains configuration options that are not required for core functionality, but may enhance the app usability and functionality.
+
+Click the *Extra options* toggle on a product's Add or Edit page to show or hide extra options.
+
+### Notes
+
+An area to write down any info or reminders relevant to the product. 
+
+Notes can also be viewed from the [Product List](/docs/documentation/product-list). See the [Notes](/docs/documentation/notes) page for more details.
+
+<br>
+{: .clear-float }

@@ -29,6 +29,8 @@ The following settings are available:
 
 **Theme**: The application's display theme. Available options are *System Theme*, *Light Theme*, or *Dark Theme*.
 
+**Starting list**: The list that the application will show when opened. Available options are *Home Stock*, *Needed*, *All Items*, or one of the shops pinned to the navigation bar. 
+
 ## Shopping List Options
 
 **Hide status change message**: By default, a notification is displayed whenever a product's status is changed between *Needed* and *In Stock*. With this setting toggled to *On*, the status change notification will be hidden.

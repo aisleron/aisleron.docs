@@ -104,3 +104,22 @@ If a new shop is going to be generally very similar to an existing shop, e.g. it
 To copy a shop, long-press the shop, tap the header bar three-dot menu, then tap the *Copy* option.
 
 On the *Copy Shop* Dialog, enter a name for the new shop and tap *OK* to save the shop. Tap *Cancel* to cancel the copy action.
+
+## Extra Options
+{: .clear-float }
+
+![Shop Extra Options](/assets/images/screenshots/light-mode/alr-165-shop-extra-options.png)
+{: .mx-auto .float-md-right }
+
+*Extra options* contains configuration options that are not required for core functionality, but may enhance the app usability and functionality.
+
+Click the *Extra options* toggle on a shop's Add or Edit page to show or hide extra options.
+
+### Notes
+
+An area to write down any info or reminders relevant to the shop. 
+
+Notes can also be viewed from the [All Shops Page](/docs/documentation/manage-shops#all-shops-page). See the [Notes](/docs/documentation/notes) page for more details.
+
+<br>
+{: .clear-float }
