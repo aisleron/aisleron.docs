@@ -8,9 +8,9 @@ nav_order: 40
 ## [2025.9.1](https://github.com/aisleron/aisleron/releases/tag/v2025.9.1) - 05 Nov 2025
 
 ### Enhancements
-* Added Notes to Products and Shops ([GitHub](https://github.com/aisleron/aisleron/issues/38)).
-* Added an option to choose the starting list when the app opens ([GitHub](https://github.com/aisleron/aisleron/issues/52)).
-* Added an option to expand or collapse all aisles at once ([GitHub](https://github.com/aisleron/aisleron/issues/61)).
+* Added [Notes](/docs/documentation/notes) to Products and Shops ([GitHub](https://github.com/aisleron/aisleron/issues/38)).
+* Added an option to choose the [starting list](/docs/documentation/settings#display-options) when the app opens ([GitHub](https://github.com/aisleron/aisleron/issues/52)).
+* Added an option to [expand or collapse](/docs/documentation/organize-lists#expandcollapse-aisles) all aisles at once ([GitHub](https://github.com/aisleron/aisleron/issues/61)).
 * Introduced an update notification banner to highlight new versions.
 * Updated French and Swedish translations.
 * Added Ukrainian translation.
