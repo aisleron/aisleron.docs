@@ -10,7 +10,7 @@ nav_order: 60
 A key feature of Aisleron is that, while all lists share the same product catalog, each list can be rearranged based on the layout of the physical location. This makes it easy to adapt your shopping list to any of your regular shops, while still making sure you get everything you need.
 
 ## Why Should I Bother Organizing my Lists?
-Most of us visit the same shops on a regular basis. We have a general idea of the layout of our favorite shops, but it can still be annoying getting to the end of a shopping trim, only to realize you forgot something way over in Aisle 1.
+Most of us visit the same shops on a regular basis. We have a general idea of the layout of our favorite shops, but it can still be annoying getting to the end of a shopping trip, only to realize you forgot something way over in Aisle 1.
 
 By arranging your aisles and products based on the shop's physical layout, you can take off from one side of the shop and follow a single line through the aisles, with each product showing up exactly when it needs to in your flight path. No backtracking, no scrolling through the list to make sure you got it all, no hunting for that thing you definitely know is here somewhere but just can't remember the right aisle.
 
