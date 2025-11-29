@@ -29,6 +29,15 @@ The following settings are available:
 
 **Theme**: The application's display theme. Available options are *System Theme*, *Light Theme*, or *Dark Theme*.
 
+**Pure Black style**: There are four levels of Pure Black styling to choose from, which will apply cumulatively:
+* *Theme Default*: Standard theme colors will apply.
+* *Economy*: The application background will be black.
+* *Business Class*: EThe title bar will be black.
+* *First Class*: The navigation drawer will be black.
+
+{: .note }  
+On devices running Android 9 and below, Pure Black will only apply to the application background for all levels.
+
 **Starting list**: The list that the application will show when opened. Available options are *Home Stock*, *Needed*, *All Items*, or one of the shops pinned to the navigation bar. 
 
 ## Shopping List Options

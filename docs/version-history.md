@@ -5,6 +5,15 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.10.0](https://github.com/aisleron/aisleron/releases/tag/v2025.10.0) - 29 Nov 2025
+
+### Enhancements
+* Implemented Material 3 design, Dynamic Colors, and Pure Black styles
+* Improve Product List Item Display on Small Screen Devices ([GitHub](https://github.com/aisleron/aisleron/issues/88)).
+* Added Italian and Afrikaans translations.
+* Updated translations.
+
+
 ## [2025.9.1](https://github.com/aisleron/aisleron/releases/tag/v2025.9.1) - 05 Nov 2025
 
 ### Enhancements
