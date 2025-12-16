@@ -84,18 +84,28 @@ On the *Copy Product* Dialog, enter a name for the new product and tap *OK* to s
 ## Extra Options
 {: .clear-float }
 
-![Product Extra Options](/assets/images/screenshots/light-mode/alr-065-product-extra-options.png)
-{: .mx-auto .float-md-right }
-
 *Extra options* contains configuration options that are not required for core functionality, but may enhance the app usability and functionality.
 
 Click the *Extra options* toggle on a product's Add or Edit page to show or hide extra options.
 
 ### Notes
 
+![Product Extra Options](/assets/images/screenshots/light-mode/alr-065-product-extra-options.png)
+{: .mx-auto .float-md-right }
+
 An area to write down any info or reminders relevant to the product. 
 
 Notes can also be viewed from the [Product List](/docs/documentation/product-list). See the [Notes](/docs/documentation/notes) page for more details.
+
+### Aisles
+{: .clear-float }
+
+![Aisle List](/assets/images/screenshots/light-mode/alr-085-010-product-aisles.png)
+{: .mx-auto .float-md-right }
+
+The aisle tab displays a list of all locations, and the aisle mapping of the product within that location. Clicking a location will display the [Aisle Picker](/docs/documentation/manage-aisles#assign-an-aisle). On the aisle picker,the product can be allocated to a different aisle, or to a newly created aisle.
+
+A new shop can also be [added](/docs/documentation/manage-shops#add-a-shop) on the aisle tab by clicking hte Add Shop fab.
 
 <br>
 {: .clear-float }

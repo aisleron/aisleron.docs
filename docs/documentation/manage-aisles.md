@@ -53,7 +53,7 @@ The product will be added to the selected aisle on the current list. It will be 
 ## Edit an Aisle
 {: .clear-float }
 
-To edit a aisle, long-press the aisle, then tap the *Edit* pencil icon ![Edit Aisle Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Aisle* dialog.
+To edit an aisle, long-press the aisle, then tap the *Edit* pencil icon ![Edit Aisle Icon](/assets/images/screenshots/light-mode/alr-970-edit-icon.png) in the header bar to open the *Edit Aisle* dialog.
 {: .v-align-middle }
 
 ![Edit Aisle](/assets/images/screenshots/light-mode/alr-130-edit-aisle-partial.png)
@@ -70,7 +70,7 @@ On the *Edit Aisle* dialog, enter new name for the aisle. Next, tap one of the f
 ![Delete Aisle Menu](/assets/images/screenshots/light-mode/alr-140-select-aisle-delete-partial.png)
 {: .mx-auto .float-md-right }
 
-To delete a aisle, long-press the aisle, tap the header bar three-dot menu, then tap the *Delete* option. 
+To delete an aisle, long-press the aisle, tap the header bar three-dot menu, then tap the *Delete* option. 
 
 <br>
 {: .clear-float }
@@ -79,6 +79,20 @@ To delete a aisle, long-press the aisle, tap the header bar three-dot menu, then
 {: .mx-auto .float-md-right }
 
 On the *Delete* confirmation page, tap *OK* to delete the aisle, or tap *Cancel* to cancel the delete action.
+
+## Assign an Aisle
+{: .clear-float }
+
+To assign an different aisle to a product, long-press the product, then tap the *Aisle picker* icon ![Aisle Picker Icon](/assets/images/screenshots/light-mode/alr-997-010-aisle-picker-icon.png) in the header bar to open the *Aisle Picker* dialog.
+{: .v-align-middle }
+
+![Aisle Picker Dialog](/assets/images/screenshots/light-mode/alr-107-010-shopping-list-aisle-picker.png)
+{: .mx-auto .float-md-right }
+
+The *Aisle Picker* dialog has the following options:
+* *Aisle list*, to pick an existing aisle that the product will be assigned to. The dialog will close automatically after selecting an aisle.
+* *Add Aisle*, to create a new aisle and assign the product to this new aisle.
+* *Cancel*, to close the *Aisle Picker* dialog without selecting a new aisle.
 
 <br>
 {: .clear-float }
