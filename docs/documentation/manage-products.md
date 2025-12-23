@@ -90,7 +90,7 @@ Click the *Extra options* toggle on a product's Add or Edit page to show or hide
 
 ### Notes
 
-![Product Extra Options](/assets/images/screenshots/light-mode/alr-065-product-extra-options.png)
+![Product Note](/assets/images/screenshots/light-mode/alr-065-product-extra-options-partial.png)
 {: .mx-auto .float-md-right }
 
 An area to write down any info or reminders relevant to the product. 
@@ -106,6 +106,24 @@ Notes can also be viewed from the [Product List](/docs/documentation/product-lis
 The aisle tab displays a list of all locations, and the aisle mapping of the product within that location. Clicking a location will display the [Aisle Picker](/docs/documentation/manage-aisles#assign-an-aisle). On the aisle picker,the product can be allocated to a different aisle, or to a newly created aisle.
 
 A new shop can also be [added](/docs/documentation/manage-shops#add-a-shop) on the aisle tab by clicking hte Add Shop fab.
+
+### Inventory
+{: .clear-float }
+
+![Product Inventory Options](/assets/images/screenshots/light-mode/alr-086-010-product-inventory-partial.png)
+{: .mx-auto .float-md-right }
+
+The inventory tab controls how a product is displayed on the shopping list, and how inventory quantities are tracked. The options are:
+
+* **Tracking Mode**: Determines how products will be tracked in lists. Available options are:
+  * *Checkbox*: Show a checkbox on each product to toggle the needed state. Checkbox is the default option.
+  * *Quantity*: Show a quantity stepper on each product to track the number of needed items. Swipe left or right to toggle the needed status.
+  * *Checkbox and Quantity*: Display both the checkbox and the quantity stepper.
+  * *None (swipe only)*: Hide both the checkbox and quantity stepper. Swipe left or right to toggle the needed status.
+  * *Default*: Use the default application tracking mode defined in [Settings](/docs/documentation/settings#display-options).
+
+* **Qty Increments**: Sets the increments to use when increasing or decreasing product quantity when using [Quantity Tracking](/docs/documentation/product-status#quantity-tracking) mode.
+* **Unit of Measure**: The unit of measure for the product quantity. The unit of measure will show as the hind when the [Quantity Tracking](/docs/documentation/product-status#quantity-tracking) field is 0 or empty.
 
 <br>
 {: .clear-float }

@@ -9,6 +9,12 @@ nav_order: 40
 
 ### Enhancements
 * Added the ability to manage aisles when adding or editing a product  ([GitHub](https://github.com/aisleron/aisleron/issues/48)).
+* Allow quantities to be tracked in decimal values ([GitHub](https://github.com/aisleron/aisleron/issues/85)).
+* Added Unit of Measure to product inventory ([GitHub](https://github.com/aisleron/aisleron/issues/92)).
+* Added the option to set tracking mode per product
+
+### Bug Fixes
+* Fixed unexpected aisle reorder behavior when there are a lot of unranked aisles ([GitHub](https://github.com/aisleron/aisleron/issues/71)).
 
 ## [2025.10.0](https://github.com/aisleron/aisleron/releases/tag/v2025.10.0) - 29 Nov 2025
 

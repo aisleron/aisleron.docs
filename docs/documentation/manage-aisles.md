@@ -34,7 +34,7 @@ On the *Add Aisle* dialog, enter a distinct name for the new aisle. Next, tap on
 * *Add Another*, to save the current aisle and add another aisle;
 * *Done*, to save the new aisle and close the *Aisle* dialog
 
-Once saved, the aisle will be displayed in the current list and products can be moved into it.
+Once saved, the aisle will be displayed at the bottom of the current list and products can be moved into it.
 
 ## Add a Product to an Aisle
 {: .clear-float }
