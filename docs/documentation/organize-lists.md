@@ -47,3 +47,11 @@ By default, an aisle will be hidden if it doesn't have any visible products. to 
 ## Expand/Collapse Aisles
 
 To expand or collapse all the aisles on the current list, tap the *More* menu option, then select the *Expand/collapse aisles* toggle. If there are any expanded aisles in the list, all aisles will be collapsed. Otherwise, all aisles will be expanded. 
+
+## Select multiple items 
+
+It is possible to select multiple items in the product list. 
+
+To start selection, long pressing an aisle or product. Tap another aisle or product to add it to the selection. Tap a selected item to deselect it. deselect all items or press the *Back* button to cancel selection mode. Selection mode will also be cancelled when completing an action, such as status change or aisle allocation, on the selected products
+
+Contextual menus will adjust based on the type of items that are selected together. 
