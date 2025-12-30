@@ -5,7 +5,7 @@ nav_order: 40
 
 # Aisleron Version History
 
-## [2025.11.0](https://github.com/aisleron/aisleron/releases/tag/v2025.11.0) - 30 Dec 2025
+## [2025.11.1](https://github.com/aisleron/aisleron/releases/tag/v2025.11.1) - 30 Dec 2025
 
 ### Enhancements
 * Added the ability to manage aisles when adding or editing a product  ([GitHub](https://github.com/aisleron/aisleron/issues/48)).
