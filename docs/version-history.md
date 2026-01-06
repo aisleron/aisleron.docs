@@ -5,6 +5,15 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2025.11.2](https://github.com/aisleron/aisleron/releases/tag/v2025.11.2) - 08 Jan 2026
+
+### Enhancements
+* Added Bulgarian translations.
+
+### Bug Fixes
+* Fixed Search Filter is not correctly removed when returning to a list ([GitHub](https://github.com/aisleron/aisleron/issues/111)).
+* Fixed a potential app crash when pressing enter on the keyboard after entering a product qty ([GitHub](https://github.com/aisleron/aisleron/issues/115)).
+
 ## [2025.11.1](https://github.com/aisleron/aisleron/releases/tag/v2025.11.1) - 30 Dec 2025
 
 ### Enhancements
