@@ -5,6 +5,15 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.1.0](https://github.com/aisleron/aisleron/releases/tag/v2026.1.0) - 19 Jan 2026
+
+### Enhancements
+* Added a language switcher in Preferences ([GitHub](https://github.com/aisleron/aisleron/issues/114)).
+* Added a product note hint on shopping list entries([GitHub](https://github.com/aisleron/aisleron/issues/84)).
+
+### Bug Fixes
+* Fixed note tab scrolling issue on the Edit Product page.
+
 ## [2025.11.2](https://github.com/aisleron/aisleron/releases/tag/v2025.11.2) - 08 Jan 2026
 
 ### Enhancements

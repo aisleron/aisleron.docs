@@ -32,5 +32,21 @@ To remove a note, clear the text box and Tap *Ok*.
 
 Tap *Cancel* to discard any changes and keep the existing note.
 
-<br>
-{: .clear-float }
+## Note Hints
+
+To show a hint when a shopping list item hasa note, enable one of the hint options in [Settings](/docs/documentation/settings#shopping-list-options). The available options are:
+
+* **Button**: Show a button on the item that will open the [Note Dialog](/docs/documentation/notes#note-dialog) when clicked.
+
+![Button Note Hint](/assets/images/screenshots/light-mode/alr-331-001-note-hint-button.png)
+{: .mx-auto}
+
+* **Summary**: Show the first line of the note below the item name, and will open the [Note Dialog](/docs/documentation/notes#note-dialog) when clicked.
+
+![Summary Note Hint](/assets/images/screenshots/light-mode/alr-331-002-note-hint-summary.png)
+{: .mx-auto}
+
+* **Indicator (\*)**: Show an asterisk next to the item name to indicate it has a note.
+
+![Indicator Note Hint](/assets/images/screenshots/light-mode/alr-331-003-note-hint-indicator.png)
+{: .mx-auto}

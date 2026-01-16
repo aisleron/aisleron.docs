@@ -40,6 +40,8 @@ On devices running Android 9 and below, Pure Black will only apply to the applic
 
 **Starting list**: The list that the application will show when opened. Available options are *Home Stock*, *Needed*, *All Items*, or one of the shops pinned to the navigation bar. 
 
+**Language**: Select a display language from the list of supported languages
+
 ## Shopping List Options
 
 **Hide status change message**: By default, a notification is displayed whenever a product's status is changed between *Needed* and *In Stock*. With this setting toggled to *On*, the status change notification will be hidden.
@@ -52,6 +54,13 @@ On devices running Android 9 and below, Pure Black will only apply to the applic
 * *Quantity*: Show a quantity stepper on each product to track the number of needed items. Swipe left or right to toggle the needed status.
 * *Checkbox and Quantity*: Display both the checkbox and the quantity stepper.
 * *None (swipe only)*: Hide both the checkbox and quantity stepper. Swipe left or right to toggle the needed status.
+
+**Note hint**: Sets the hint that will be displayed on hte shopping list when an item has a note associated:
+
+* *Button*: Show a button on the item that will open the [Note Dialog](/docs/documentation/notes#note-dialog) when clicked.
+* *Summary*: Show the first line of the note below the item name, and will open the [Note Dialog](/docs/documentation/notes#note-dialog) when clicked.
+* *Indicator (\*)*: Show an asterisk next to the item name to indicate it has a note.
+* *None*: Don't show any hint if the item has a note. This is the default option.
 
 ## Backup/Restore
 
