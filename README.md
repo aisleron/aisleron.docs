@@ -17,3 +17,14 @@ With live update:
 
 The site will run on http://localhost:4000
 
+### Updating Code of Conduct, Contribution Guides, and Privacy Policy
+
+From the root folder of this project, run the below commands in the terminal:
+
+```
+curl -o _includes/aisleron_contributing.md https://raw.githubusercontent.com/aisleron/aisleron/main/CONTRIBUTING.md
+curl -o _includes/aisleron_code_of_conduct.md https://raw.githubusercontent.com/aisleron/aisleron/main/CODE_OF_CONDUCT.md
+cp CONTRIBUTING.md _includes/docs_contributing.md
+curl -o _includes/privacy_policy.md https://raw.githubusercontent.com/aisleron/aisleron/main/PRIVACY.md
+```
+
