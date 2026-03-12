@@ -5,6 +5,16 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.2.0](https://github.com/aisleron/aisleron/releases/tag/v2026.2.0) - 15 Mar 2026
+
+### Enhancements
+* Added the option to view the product list grouped by location/shop([GitHub](https://github.com/aisleron/aisleron/issues/67)).
+* Added a Contribute section to the About page.
+* Added Turkish translations.
+
+### Bug Fixes
+* Fixed language resources being stripped from the Play Store bundle.
+
 ## [2026.1.0](https://github.com/aisleron/aisleron/releases/tag/v2026.1.0) - 19 Jan 2026
 
 ### Enhancements

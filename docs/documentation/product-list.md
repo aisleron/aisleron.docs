@@ -42,6 +42,13 @@ Displays products that need to be picked up from the given shop. While shopping,
 If a [loyalty card](/docs/documentation/manage-shops#manage-shops) is linked to the shop, the loyalty card button ![Loyalty Card](/assets/images/screenshots/light-mode/alr-990-show-loyalty-card.png) will be displayed in the toolbar.
 {: .v-align-middle }
 
+### All Shops List 
+
+Displays products that need to be picked up, grouped by shop. While shopping, [tick off products](/docs/documentation/product-status) to remove it from the list.
+
+If a [loyalty card](/docs/documentation/manage-shops#manage-shops) is linked to a shop, the loyalty card button ![Loyalty Card](/assets/images/screenshots/light-mode/alr-990-show-loyalty-card.png) will be displayed when the shop is selected.
+{: .v-align-middle }
+
 ## Main Functions
 
 * [Change Product Status](/docs/documentation/product-status)

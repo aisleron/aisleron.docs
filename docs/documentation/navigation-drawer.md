@@ -27,7 +27,7 @@ The *Home* Drawer Section is the first section in the navigation drawer. This is
 ***All Items***: Display both [*In Stock* and *Needed*](/docs/documentation/product-list#all-items-list) products in a single list.  
 
 ## Shops Section
-The *Shops* drawer section lists all pinned shops, and the *All Shops* menu item. Tap a pinned shop to see that shop's [*Needed*](/docs/documentation/product-list#shop-list) products. Tap the [*All Shops*](/docs/documentation/manage-shops) to manage shops.
+The *Shops* drawer section lists all pinned shops, and the *All Shops* menu item. Tap a pinned shop to see that shop's [*Needed*](/docs/documentation/product-list#shop-list) products. Tap the [*All Shops*](/docs/documentation/product-list#all-shops-list) to view your [*Needed*](/docs/documentation/product-list#shop-list) items, grouped by Shop.
 
 ## Other Options
-From this section, you can access the application's [*Settings*](/docs/documentation/settings), and the *About* page.
+From this section, you can manage shops by tapping [*All Lists*](/docs/documentation/manage-shops), access the application's [*Settings*](/docs/documentation/settings), and view the *About* page.

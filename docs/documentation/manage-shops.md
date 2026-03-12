@@ -7,7 +7,7 @@ nav_order: 90
 # Manage Shops
 {: .no_toc }
 
-![All Shops Page](/assets/images/screenshots/light-mode/alr-280-all-shops.png)
+![All Lists Page](/assets/images/screenshots/light-mode/alr-280-all-lists.png)
 {: .mx-auto .float-md-right }
 
 In Aisleron, a Shop represents a physical location where you can buy products. A Shop is laid out by Aisle, with products sorted into the Shop Aisles. You can set up multiple shops with different layouts; needed products will be displayed in all shops.
@@ -21,9 +21,9 @@ To add, edit, or delete a shop, see the instructions below.
 
 ---
 
-## All Shops Page
+## All Lists Page
 
-From the *All Shops* page, you can view all your shops, jump to the shop list, and manage shops. To view the *All Shops* page, select it from the [*Navigation Drawer*](/docs/documentation/navigation-drawer#shops-section).
+From the *All Lists* page, you can view all your shops, jump to the shop list, and manage shops. To view the *All Lists* page, select it from the [*Navigation Drawer*](/docs/documentation/navigation-drawer#shops-section).
 
 To view a shop list, tap the shop icon on the *All Shops* list.
 
