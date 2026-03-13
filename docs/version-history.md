@@ -8,7 +8,8 @@ nav_order: 40
 ## [2026.2.0](https://github.com/aisleron/aisleron/releases/tag/v2026.2.0) - 15 Mar 2026
 
 ### Enhancements
-* Added the option to view the product list grouped by location/shop([GitHub](https://github.com/aisleron/aisleron/issues/67)).
+* Added the option to view the product list grouped by location/shop ([GitHub](https://github.com/aisleron/aisleron/issues/67)).
+* Allow for shops to be reordered ([GitHub](https://github.com/aisleron/aisleron/issues/133))
 * Added a Contribute section to the About page.
 * Added Turkish translations.
 
