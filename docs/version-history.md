@@ -9,7 +9,7 @@ nav_order: 40
 
 ### Enhancements
 * Added the option to view the product list grouped by location/shop ([GitHub](https://github.com/aisleron/aisleron/issues/67)).
-* Allow for shops to be reordered ([GitHub](https://github.com/aisleron/aisleron/issues/133))
+* Allow for shops to be reordered ([GitHub](https://github.com/aisleron/aisleron/issues/133)).
 * Added a Contribute section to the About page.
 * Added Turkish translations.
 
