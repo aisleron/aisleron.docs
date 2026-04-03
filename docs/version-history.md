@@ -5,6 +5,19 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.3.0](https://github.com/aisleron/aisleron/releases/tag/v2026.3.0) - 03 Apr 2026
+
+### Enhancements
+* Added a Contribute section to the About page.
+* Added a Search entry to the Floating Action Button menu ([GitHub](https://github.com/aisleron/aisleron/issues/125)).
+* Populate Name on Add Product page with search results if available ([GitHub](https://github.com/aisleron/aisleron/issues/134)).
+* Added Breton translations.
+
+### Bug Fixes
+* Fix incorrect pinned shop being displayed after reordering shops.
+
+
+
 ## [2026.2.0](https://github.com/aisleron/aisleron/releases/tag/v2026.2.0) - 15 Mar 2026
 
 ### Enhancements
