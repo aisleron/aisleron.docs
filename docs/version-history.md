@@ -5,6 +5,15 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.4.0](https://github.com/aisleron/aisleron/releases/tag/v2026.4.0) - 31 May 2026
+
+### Enhancements
+* Prepare data model for sync feature.
+
+### Bug Fixes
+* Fix Product Qty being chopped off at the top when using large font sizes ([GitHub](https://github.com/aisleron/aisleron/issues/151)).
+
+
 ## [2026.3.0](https://github.com/aisleron/aisleron/releases/tag/v2026.3.0) - 03 Apr 2026
 
 ### Enhancements
