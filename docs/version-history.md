@@ -5,6 +5,14 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.4.1](https://github.com/aisleron/aisleron/releases/tag/v2026.4.1) - 08 Jun 2026
+
+### Enhancements
+* Added Portuguese translations.
+
+### Bug Fixes
+* Fix crash on app resume in Android 13 ([GitHub](https://github.com/aisleron/aisleron/issues/159)).
+
 ## [2026.4.0](https://github.com/aisleron/aisleron/releases/tag/v2026.4.0) - 31 May 2026
 
 ### Enhancements
