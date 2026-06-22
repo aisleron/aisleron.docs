@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch and Filter Sponsors
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }} 
         run: |
           mkdir -p _data
           curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
