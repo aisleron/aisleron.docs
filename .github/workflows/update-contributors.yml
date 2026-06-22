@@ -26,8 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          mkdir -p _data
           curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
           -X POST -d '{"query": "query { repositoryOwner(login: \"aisleron\") { ... on User { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } ... on Organization { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } } }"}' \
+          "https://api.github.com/graphql" \
           | jq '[.data.repositoryOwner.sponsorshipsAsMaintainer.nodes[] | select(.sponsorEntity != null) | {login: .sponsorEntity.login, avatar_url: .sponsorEntity.avatarUrl, html_url: .sponsorEntity.htmlUrl}]' \
           > _data/sponsors.json
 
