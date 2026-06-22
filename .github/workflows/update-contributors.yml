@@ -27,12 +27,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }} 
         run: |
           mkdir -p _data
-          
-          # Added '?' operators to the jq chain to silently handle null responses gracefully
           curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
-          -X POST -d '{"query": "query { repositoryOwner(login: \"aisleron\") { ... on User { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } ... on Organization { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } } }"}' \
+          -X POST -d '{"query": "query { viewer { organization(login: \"aisleron\") { sponsorshipsAsMaintainer(first: 100, activeOnly: false) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } } } } } }"}' \
           "https://api.github.com/graphql" \
-          | jq '[.data?.repositoryOwner?.sponsorshipsAsMaintainer?.nodes[]? | select(.sponsorEntity != null) | {login: .sponsorEntity.login, avatar_url: .sponsorEntity.avatarUrl, html_url: .sponsorEntity.htmlUrl}]' \
+          | jq '[.data?.viewer?.organization?.sponsorshipsAsMaintainer?.nodes[]? | select(.sponsorEntity != null) | {login: .sponsorEntity.login, avatar_url: .sponsorEntity.avatarUrl, html_url: .sponsorEntity.url}]' \
           > _data/sponsors.json
 
       - name: Commit and Push changes
