@@ -15,11 +15,13 @@ jobs:
       - name: Checkout Docs Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Contributors from Core App Repo
+      - name: Fetch and Filter Contributors Data
         run: |
           mkdir -p _data
-          # Explicitly target the core repository for data gathering
-          curl -s "https://api.github.com/repos/aisleron/aisleron/contributors" > _data/contributors.json
+          # Fetch from API, pipe through jq to extract only relevant fields, and save
+          curl -s "https://api.github.com/repos/aisleron/aisleron/contributors" \
+          | jq '[.[] | {login: .login, avatar_url: .avatar_url, html_url: .html_url, type: .type}]' \
+          > _data/contributors.json
 
       - name: Commit and Push to Docs Repo
         run: |
