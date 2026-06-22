@@ -24,8 +24,7 @@ jobs:
 
       - name: Fetch and Filter Sponsors
         env:
-          # If this returns empty, replace with ${{ secrets.SPONSORS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }} 
         run: |
           mkdir -p _data
           
