@@ -15,22 +15,30 @@ jobs:
       - name: Checkout Docs Repository
         uses: actions/checkout@v4
 
-      - name: Fetch and Filter Contributors Data
+      - name: Fetch and Filter Contributors
         run: |
           mkdir -p _data
-          # Fetch from API, pipe through jq to extract only relevant fields, and save
           curl -s "https://api.github.com/repos/aisleron/aisleron/contributors" \
-          | jq '[.[] | {login: .login, avatar_url: .avatar_url, html_url: .html_url, type: .type}]' \
+          | jq '[.[] | select(.type == "User") | {login: .login, avatar_url: .avatar_url, html_url: .html_url}]' \
           > _data/contributors.json
 
-      - name: Commit and Push to Docs Repo
+      - name: Fetch and Filter Sponsors
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
+          -X POST -d '{"query": "query { repositoryOwner(login: \"aisleron\") { ... on User { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } ... on Organization { sponsorshipsAsMaintainer(first: 100, activeOnly: true) { nodes { sponsorEntity { ... on User { login avatarUrl htmlUrl } ... on Organization { login avatarUrl htmlUrl } } } } } } }"}' \
+          | jq '[.data.repositoryOwner.sponsorshipsAsMaintainer.nodes[] | select(.sponsorEntity != null) | {login: .sponsorEntity.login, avatar_url: .sponsorEntity.avatarUrl, html_url: .sponsorEntity.htmlUrl}]' \
+          > _data/sponsors.json
+
+      - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/contributors.json
+          git add _data/contributors.json _data/sponsors.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: sync main app contributors [skip ci]"
+            git commit -m "chore: sync contributors and sponsors profile details [skip ci]"
             git push
           else
-            echo "No changes in contributor list."
+            echo "No profile updates detected."
           fi
