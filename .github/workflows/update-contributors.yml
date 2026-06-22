@@ -1,0 +1,31 @@
+name: Update Core App Contributors Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows you to force run it from the Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Docs Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Contributors from Core App Repo
+        run: |
+          mkdir -p _data
+          # Explicitly target the core repository for data gathering
+          curl -s "https://api.github.com/repos/aisleron/aisleron/contributors" > _data/contributors.json
+
+      - name: Commit and Push to Docs Repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _data/contributors.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync main app contributors [skip ci]"
+            git push
+          else
+            echo "No changes in contributor list."
+          fi
