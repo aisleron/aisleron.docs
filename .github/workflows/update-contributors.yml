@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch and Filter Sponsors
         env:
-          GITHUB_TOKEN: 1234
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }} 
         run: |
           set -o pipefail
           mkdir -p _data
