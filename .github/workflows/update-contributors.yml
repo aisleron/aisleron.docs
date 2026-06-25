@@ -17,19 +17,35 @@ jobs:
 
       - name: Fetch and Filter Contributors
         run: |
+          set -o pipefail
           mkdir -p _data
-          curl -s "https://api.github.com/repos/aisleron/aisleron/contributors" \
+          
+          # Added -f to curl so it fails on HTTP errors
+          curl -sf "https://api.github.com/repos/aisleron/aisleron/contributors" \
           | jq '[.[] | select(.type == "User") | {login: .login, avatar_url: .avatar_url, html_url: .html_url}]' \
           > _data/contributors.json
 
       - name: Fetch and Filter Sponsors
         env:
-          GITHUB_TOKEN: 123456 
+          GITHUB_TOKEN: 1234
         run: |
+          set -o pipefail
           mkdir -p _data
-          curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
-          -X POST -d '{"query": "query { viewer { organization(login: \"aisleron\") { sponsorshipsAsMaintainer(first: 100, activeOnly: false) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } } } } } }"}' \
-          "https://api.github.com/graphql" \
+          
+          # 1. Fetch raw response and catch bad HTTP status codes (e.g. 401 Unauthorized)
+          RESPONSE=$(curl -sf -H "Authorization: bearer $GITHUB_TOKEN" \
+            -X POST -d '{"query": "query { viewer { organization(login: \"aisleron\") { sponsorshipsAsMaintainer(first: 100, activeOnly: false) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } } } } } }"}' \
+            "https://api.github.com/graphql")
+          
+          # 2. Check if the token is valid but GitHub returned a GraphQL error object
+          if echo "$RESPONSE" | jq -e '.errors' >/dev/null; then
+            echo "::error::GitHub GraphQL API returned errors. Your token might have expired or lacks permissions."
+            echo "$RESPONSE" | jq '.errors'
+            exit 1
+          fi
+          
+          # 3. Process the safe data into your sponsors file
+          echo "$RESPONSE" \
           | jq '[.data?.viewer?.organization?.sponsorshipsAsMaintainer?.nodes[]? | select(.sponsorEntity != null) | {login: .sponsorEntity.login, avatar_url: .sponsorEntity.avatarUrl, html_url: .sponsorEntity.url}]' \
           > _data/sponsors.json
 
