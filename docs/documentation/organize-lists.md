@@ -44,6 +44,10 @@ In addition to manual sorting, a list can also be sorted by name. This option wi
 
 By default, an aisle will be hidden if it doesn't have any visible products. to toggle the visibility of empty aisles, tap the *More* menu option, then select the *Show empty aisles* checkbox. This option can also be set from the [Settings](/docs/documentation/settings.md#display-options) page.
 
+## All Items
+
+Temporarily show all items in a *Needed* or *In Stock* list. Only available in shop-based lists.
+
 ## Expand/Collapse Aisles
 
 To expand or collapse all the aisles on the current list, tap the *More* menu option, then select the *Expand/collapse aisles* toggle. If there are any expanded aisles in the list, all aisles will be collapsed. Otherwise, all aisles will be expanded. 

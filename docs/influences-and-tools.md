@@ -31,6 +31,13 @@ Android client for the Nextcloud news/feed reader app.
 **[Tasks.org](https://github.com/tasks/tasks)**  
 Open-source To-Do Lists & Reminders.  
 
+{: .app-icon }  
+[![Kvaesitso Logo](/assets/images/app-tool-icons/kvaesitso-icon.png)](https://kvaesitso.mm20.de/)
+
+{: .app-description }
+**[Kvaesitso](https://kvaesitso.mm20.de/)**  
+A search-focused, free and open source launcher for Android.   
+
 ---
 
 Next up, a list of some of the tools I found most useful as part of the development process:
