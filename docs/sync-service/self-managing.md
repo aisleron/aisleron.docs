@@ -1,15 +1,15 @@
 ---
-title: Self-hosting
+title: Self-managing
 parent: Aisleron Sync Service
 nav_order: 300
 ---
 
-# Self-hosting the Aisleron Sync Service
+# Self-managing the Aisleron Sync Service
 
-You can run your own instance of the Aisleron Sync Service, either on your own hardware or by signing up for a free Supabase cloud instance. Follow the instructions below to set up your instance
+You can run your own instance of the Aisleron Sync Service either on your own hardware or by signing up for a free Supabase cloud instance. Follow the instructions below to set up your instance.
 
 
-Note that, while every effort will be made to prevent braking changes, backwards compatibility cannot be guaranteed, so it is recommended to keep your instance updated with the latest available schema.
+Note that, while every effort will be made to prevent braking changes, backwards compatibility cannot be guaranteed, so it is recommended to always keep your instance updated with the latest available schema.
 
 ## Prerequisites
 

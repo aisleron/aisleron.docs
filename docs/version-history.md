@@ -5,13 +5,11 @@ nav_order: 40
 
 # Aisleron Version History
 
-## [2026.6.0](https://github.com/aisleron/aisleron/releases/tag/v2026.6.0) - 25 Aug 2026
+## [2026.6.0](https://github.com/aisleron/aisleron/releases/tag/v2026.6.0) - 01 Sep 2026
 
 ### Enhancements
-* 
+* Added the ability to keep shopping lists up to date across multiple devices using a self-managed sync service. See the [Aisleron Sync Service](./sync-service) documentation for details.
 
-### Bug Fixes
-* 
 
 ## [2026.5.0](https://github.com/aisleron/aisleron/releases/tag/v2026.5.0) - 25 Jun 2026
 

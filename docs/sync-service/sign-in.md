@@ -14,4 +14,4 @@ The *Sign In* page is used to provide the credentials for the [Aisleron Sync Ser
 
 Enter the email and password for a registered account, and click *Sign in* to connect to the sync service.
 
-To register an account for a custom sync service, see [Adding a User Account](self-hosting#adding-a-user-account).
+To register an account for a custom sync service, see [Adding a User Account](self-managing#adding-a-user-account).
