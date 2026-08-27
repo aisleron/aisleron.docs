@@ -7,7 +7,7 @@ nav_order: 100
 # Account Preferences
 {: .no_toc }
 
-![Account Preferences Page](/assets/images/screenshots/light-mode/alr-370-010-account-preferences-custom-sync.png)
+![Account Preferences Page](/assets/images/screenshots/light-mode/alr-370-200-account-preferences-connected.png)
 {: .mx-auto .float-md-right }
 
 The *Account Preferences* page is used to configure the Aisleron Sync Service, and the account used to sync.
