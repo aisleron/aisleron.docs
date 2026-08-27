@@ -5,6 +5,11 @@ nav_order: 40
 
 # Aisleron Version History
 
+## [2026.6.0](https://github.com/aisleron/aisleron/releases/tag/v2026.6.0) - 01 Sep 2026
+
+{% include changelogs/24.md %}
+
+
 ## [2026.5.0](https://github.com/aisleron/aisleron/releases/tag/v2026.5.0) - 25 Jun 2026
 
 ### Enhancements
@@ -13,7 +18,7 @@ nav_order: 40
 * Added Arabic and Tamil translations.
 
 ### Bug Fixes
-* Added Portuguese to language selection..
+* Added Portuguese to language selection.
 
 ## [2026.4.1](https://github.com/aisleron/aisleron/releases/tag/v2026.4.1) - 08 Jun 2026
 
