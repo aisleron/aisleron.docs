@@ -6,6 +6,10 @@ nav_order: 300
 
 # Self-managing the Aisleron Sync Service
 
+
+{: .warning }
+The Sync Service schema is still in development and has not been finalized. Do not deploy the schema unless you are comfortable with potential breaking changes.
+
 You can run your own instance of the Aisleron Sync Service either on your own hardware or by signing up for a free Supabase cloud instance. Follow the instructions below to set up your instance.
 
 
