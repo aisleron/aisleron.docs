@@ -5,7 +5,7 @@ nav_order: 40
 
 # Aisleron Version History
 
-## [2026.6.0](https://github.com/aisleron/aisleron/releases/tag/v2026.6.0) - 01 Sep 2026
+## [2026.6.0](https://github.com/aisleron/aisleron/releases/tag/v2026.6.0) - 21 Sep 2026
 
 {% include changelogs/24.md %}
 
